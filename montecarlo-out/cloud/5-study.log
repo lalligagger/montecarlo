@@ -194,3 +194,4 @@ probe: 60 parameters x 2 signs x 200 trials
   probe fret.17.angle 0.09: 200/200
   probe fret.17.angle -0.09: 50/200
   probe fret.17.angle -0.09: 200/200
+  probe fret.17.cor 9: 50/200
