@@ -6334,3 +6334,7 @@ plan: 67 cases x 6000 trials, about 664 min
   pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3450/6000
   pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3500/6000
   pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3600/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3650/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3750/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3800/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3900/6000
