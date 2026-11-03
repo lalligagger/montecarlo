@@ -290,3 +290,538 @@ plan: 67 cases x 10000 trials, about 1208 min
   baseline full: 4250/10000
   baseline full: 4400/10000
   baseline full: 4550/10000
+  baseline full: 4700/10000
+  baseline full: 4850/10000
+  baseline full: 5000/10000
+  baseline full: 5100/10000
+  baseline full: 5150/10000
+  baseline full: 5250/10000
+  baseline full: 5300/10000
+  baseline full: 5400/10000
+  baseline full: 5450/10000
+  baseline full: 5500/10000
+  baseline full: 5600/10000
+  baseline full: 5650/10000
+  baseline full: 5750/10000
+  baseline full: 5800/10000
+  baseline full: 5900/10000
+  baseline full: 5950/10000
+  baseline full: 6000/10000
+  baseline full: 6050/10000
+  baseline full: 6100/10000
+  baseline full: 6150/10000
+  baseline full: 6200/10000
+  baseline full: 6250/10000
+  baseline full: 6300/10000
+  baseline full: 6350/10000
+  baseline full: 6400/10000
+  baseline full: 6450/10000
+  baseline full: 6500/10000
+  baseline full: 6600/10000
+  baseline full: 6650/10000
+  baseline full: 6750/10000
+  baseline full: 6800/10000
+  baseline full: 6900/10000
+  baseline full: 6950/10000
+  baseline full: 7050/10000
+  baseline full: 7100/10000
+  baseline full: 7200/10000
+  baseline full: 7250/10000
+  baseline full: 7350/10000
+  baseline full: 7400/10000
+  baseline full: 7500/10000
+  baseline full: 7550/10000
+  baseline full: 7650/10000
+  baseline full: 7700/10000
+  baseline full: 7800/10000
+  baseline full: 7850/10000
+  baseline full: 7950/10000
+  baseline full: 8000/10000
+  baseline full: 8100/10000
+  baseline full: 8150/10000
+  baseline full: 8250/10000
+  baseline full: 8300/10000
+  baseline full: 8400/10000
+  baseline full: 8450/10000
+  baseline full: 8550/10000
+  baseline full: 8600/10000
+  baseline full: 8700/10000
+  baseline full: 8750/10000
+  baseline full: 8850/10000
+  baseline full: 8900/10000
+  baseline full: 9000/10000
+  baseline full: 9050/10000
+  baseline full: 9150/10000
+  baseline full: 9200/10000
+  baseline full: 9300/10000
+  baseline full: 9350/10000
+  baseline full: 9450/10000
+  baseline full: 9500/10000
+  baseline full: 9600/10000
+  baseline full: 9650/10000
+  baseline full: 9750/10000
+  baseline full: 9800/10000
+  baseline full: 9900/10000
+  baseline full: 9950/10000
+  baseline full: 10000/10000
+  null check: 50/10000
+  null check: 200/10000
+  null check: 350/10000
+  null check: 500/10000
+  null check: 650/10000
+  null check: 750/10000
+  null check: 800/10000
+  null check: 900/10000
+  null check: 950/10000
+  null check: 1050/10000
+  null check: 1100/10000
+  null check: 1150/10000
+  null check: 1250/10000
+  null check: 1300/10000
+  null check: 1350/10000
+  null check: 1400/10000
+  null check: 1500/10000
+  null check: 1550/10000
+  null check: 1650/10000
+  null check: 1700/10000
+  null check: 1850/10000
+  null check: 2000/10000
+  null check: 2050/10000
+  null check: 2150/10000
+  null check: 2250/10000
+  null check: 2300/10000
+  null check: 2400/10000
+  null check: 2450/10000
+  null check: 2550/10000
+  null check: 2600/10000
+  null check: 2700/10000
+  null check: 2750/10000
+  null check: 2850/10000
+  null check: 2900/10000
+  null check: 3000/10000
+  null check: 3050/10000
+  null check: 3150/10000
+  null check: 3200/10000
+  null check: 3300/10000
+  null check: 3350/10000
+  null check: 3450/10000
+  null check: 3500/10000
+  null check: 3600/10000
+  null check: 3650/10000
+  null check: 3750/10000
+  null check: 3800/10000
+  null check: 3900/10000
+  null check: 3950/10000
+  null check: 4050/10000
+  null check: 4100/10000
+  null check: 4150/10000
+  null check: 4200/10000
+  null check: 4250/10000
+  null check: 4300/10000
+  null check: 4350/10000
+  null check: 4400/10000
+  null check: 4450/10000
+  null check: 4500/10000
+  null check: 4550/10000
+  null check: 4600/10000
+  null check: 4700/10000
+  null check: 4750/10000
+  null check: 4850/10000
+  null check: 4900/10000
+  null check: 5000/10000
+  null check: 5050/10000
+  null check: 5150/10000
+  null check: 5200/10000
+  null check: 5300/10000
+  null check: 5350/10000
+  null check: 5400/10000
+  null check: 5450/10000
+  null check: 5500/10000
+  null check: 5550/10000
+  null check: 5600/10000
+  null check: 5650/10000
+  null check: 5700/10000
+  null check: 5750/10000
+  null check: 5800/10000
+  null check: 5900/10000
+  null check: 5950/10000
+  null check: 6000/10000
+  null check: 6050/10000
+  null check: 6100/10000
+  null check: 6150/10000
+  null check: 6200/10000
+  null check: 6250/10000
+  null check: 6300/10000
+  null check: 6350/10000
+  null check: 6400/10000
+  null check: 6450/10000
+  null check: 6500/10000
+  null check: 6550/10000
+  null check: 6600/10000
+  null check: 6650/10000
+  null check: 6700/10000
+  null check: 6750/10000
+  null check: 6800/10000
+  null check: 6850/10000
+  null check: 6900/10000
+  null check: 6950/10000
+  null check: 7000/10000
+  null check: 7050/10000
+  null check: 7100/10000
+  null check: 7150/10000
+  null check: 7200/10000
+  null check: 7250/10000
+  null check: 7300/10000
+  null check: 7350/10000
+  null check: 7400/10000
+  null check: 7450/10000
+  null check: 7500/10000
+  null check: 7550/10000
+  null check: 7600/10000
+  null check: 7650/10000
+  null check: 7700/10000
+  null check: 7750/10000
+  null check: 7800/10000
+  null check: 7850/10000
+  null check: 7900/10000
+  null check: 7950/10000
+  null check: 8000/10000
+  null check: 8050/10000
+  null check: 8100/10000
+  null check: 8150/10000
+  null check: 8200/10000
+  null check: 8250/10000
+  null check: 8300/10000
+  null check: 8350/10000
+  null check: 8400/10000
+  null check: 8450/10000
+  null check: 8500/10000
+  null check: 8550/10000
+  null check: 8600/10000
+  null check: 8650/10000
+  null check: 8700/10000
+  null check: 8750/10000
+  null check: 8800/10000
+  null check: 8850/10000
+  null check: 8900/10000
+  null check: 9000/10000
+  null check: 9050/10000
+  null check: 9150/10000
+  null check: 9200/10000
+  null check: 9300/10000
+  null check: 9350/10000
+  null check: 9450/10000
+  null check: 9500/10000
+  null check: 9600/10000
+  null check: 9650/10000
+  null check: 9750/10000
+  null check: 9800/10000
+  null check: 9850/10000
+  null check: 9900/10000
+  null check: 10000/10000
+  sweep material.mu 0.06: 50/10000
+  sweep material.mu 0.06: 150/10000
+  sweep material.mu 0.06: 200/10000
+  sweep material.mu 0.06: 300/10000
+  sweep material.mu 0.06: 350/10000
+  sweep material.mu 0.06: 450/10000
+  sweep material.mu 0.06: 500/10000
+  sweep material.mu 0.06: 600/10000
+  sweep material.mu 0.06: 650/10000
+  sweep material.mu 0.06: 750/10000
+  sweep material.mu 0.06: 800/10000
+  sweep material.mu 0.06: 900/10000
+  sweep material.mu 0.06: 950/10000
+  sweep material.mu 0.06: 1000/10000
+  sweep material.mu 0.06: 1100/10000
+  sweep material.mu 0.06: 1150/10000
+  sweep material.mu 0.06: 1250/10000
+  sweep material.mu 0.06: 1300/10000
+  sweep material.mu 0.06: 1400/10000
+  sweep material.mu 0.06: 1450/10000
+  sweep material.mu 0.06: 1500/10000
+  sweep material.mu 0.06: 1550/10000
+  sweep material.mu 0.06: 1600/10000
+  sweep material.mu 0.06: 1700/10000
+  sweep material.mu 0.06: 1750/10000
+  sweep material.mu 0.06: 1850/10000
+  sweep material.mu 0.06: 1900/10000
+  sweep material.mu 0.06: 2000/10000
+  sweep material.mu 0.06: 2050/10000
+  sweep material.mu 0.06: 2100/10000
+  sweep material.mu 0.06: 2150/10000
+  sweep material.mu 0.06: 2200/10000
+  sweep material.mu 0.06: 2250/10000
+  sweep material.mu 0.06: 2300/10000
+  sweep material.mu 0.06: 2350/10000
+  sweep material.mu 0.06: 2400/10000
+  sweep material.mu 0.06: 2450/10000
+  sweep material.mu 0.06: 2500/10000
+  sweep material.mu 0.06: 2550/10000
+  sweep material.mu 0.06: 2600/10000
+  sweep material.mu 0.06: 2650/10000
+  sweep material.mu 0.06: 2700/10000
+  sweep material.mu 0.06: 2750/10000
+  sweep material.mu 0.06: 2800/10000
+  sweep material.mu 0.06: 2850/10000
+  sweep material.mu 0.06: 2900/10000
+  sweep material.mu 0.06: 2950/10000
+  sweep material.mu 0.06: 3000/10000
+  sweep material.mu 0.06: 3050/10000
+  sweep material.mu 0.06: 3100/10000
+  sweep material.mu 0.06: 3150/10000
+  sweep material.mu 0.06: 3200/10000
+  sweep material.mu 0.06: 3250/10000
+  sweep material.mu 0.06: 3300/10000
+  sweep material.mu 0.06: 3350/10000
+  sweep material.mu 0.06: 3400/10000
+  sweep material.mu 0.06: 3500/10000
+  sweep material.mu 0.06: 3550/10000
+  sweep material.mu 0.06: 3650/10000
+  sweep material.mu 0.06: 3700/10000
+  sweep material.mu 0.06: 3800/10000
+  sweep material.mu 0.06: 3850/10000
+  sweep material.mu 0.06: 3950/10000
+  sweep material.mu 0.06: 4000/10000
+  sweep material.mu 0.06: 4100/10000
+  sweep material.mu 0.06: 4150/10000
+  sweep material.mu 0.06: 4200/10000
+  sweep material.mu 0.06: 4250/10000
+  sweep material.mu 0.06: 4300/10000
+  sweep material.mu 0.06: 4400/10000
+  sweep material.mu 0.06: 4450/10000
+  sweep material.mu 0.06: 4500/10000
+  sweep material.mu 0.06: 4550/10000
+  sweep material.mu 0.06: 4600/10000
+  sweep material.mu 0.06: 4650/10000
+  sweep material.mu 0.06: 4700/10000
+  sweep material.mu 0.06: 4750/10000
+  sweep material.mu 0.06: 4800/10000
+  sweep material.mu 0.06: 4850/10000
+  sweep material.mu 0.06: 4900/10000
+  sweep material.mu 0.06: 4950/10000
+  sweep material.mu 0.06: 5000/10000
+  sweep material.mu 0.06: 5050/10000
+  sweep material.mu 0.06: 5100/10000
+  sweep material.mu 0.06: 5150/10000
+  sweep material.mu 0.06: 5200/10000
+  sweep material.mu 0.06: 5250/10000
+  sweep material.mu 0.06: 5300/10000
+  sweep material.mu 0.06: 5350/10000
+  sweep material.mu 0.06: 5450/10000
+  sweep material.mu 0.06: 5500/10000
+  sweep material.mu 0.06: 5600/10000
+  sweep material.mu 0.06: 5650/10000
+  sweep material.mu 0.06: 5750/10000
+  sweep material.mu 0.06: 5800/10000
+  sweep material.mu 0.06: 5900/10000
+  sweep material.mu 0.06: 5950/10000
+  sweep material.mu 0.06: 6050/10000
+  sweep material.mu 0.06: 6100/10000
+  sweep material.mu 0.06: 6150/10000
+  sweep material.mu 0.06: 6200/10000
+  sweep material.mu 0.06: 6250/10000
+  sweep material.mu 0.06: 6350/10000
+  sweep material.mu 0.06: 6400/10000
+  sweep material.mu 0.06: 6450/10000
+  sweep material.mu 0.06: 6500/10000
+  sweep material.mu 0.06: 6550/10000
+  sweep material.mu 0.06: 6650/10000
+  sweep material.mu 0.06: 6700/10000
+  sweep material.mu 0.06: 6750/10000
+  sweep material.mu 0.06: 6800/10000
+  sweep material.mu 0.06: 6850/10000
+  sweep material.mu 0.06: 6900/10000
+  sweep material.mu 0.06: 6950/10000
+  sweep material.mu 0.06: 7000/10000
+  sweep material.mu 0.06: 7050/10000
+  sweep material.mu 0.06: 7100/10000
+  sweep material.mu 0.06: 7150/10000
+  sweep material.mu 0.06: 7200/10000
+  sweep material.mu 0.06: 7250/10000
+  sweep material.mu 0.06: 7300/10000
+  sweep material.mu 0.06: 7350/10000
+  sweep material.mu 0.06: 7400/10000
+  sweep material.mu 0.06: 7450/10000
+  sweep material.mu 0.06: 7500/10000
+  sweep material.mu 0.06: 7550/10000
+  sweep material.mu 0.06: 7600/10000
+  sweep material.mu 0.06: 7650/10000
+  sweep material.mu 0.06: 7700/10000
+  sweep material.mu 0.06: 7750/10000
+  sweep material.mu 0.06: 7800/10000
+  sweep material.mu 0.06: 7850/10000
+  sweep material.mu 0.06: 7900/10000
+  sweep material.mu 0.06: 8000/10000
+  sweep material.mu 0.06: 8050/10000
+  sweep material.mu 0.06: 8100/10000
+  sweep material.mu 0.06: 8150/10000
+  sweep material.mu 0.06: 8200/10000
+  sweep material.mu 0.06: 8250/10000
+  sweep material.mu 0.06: 8300/10000
+  sweep material.mu 0.06: 8350/10000
+  sweep material.mu 0.06: 8400/10000
+  sweep material.mu 0.06: 8450/10000
+  sweep material.mu 0.06: 8550/10000
+  sweep material.mu 0.06: 8600/10000
+  sweep material.mu 0.06: 8700/10000
+  sweep material.mu 0.06: 8750/10000
+  sweep material.mu 0.06: 8850/10000
+  sweep material.mu 0.06: 8900/10000
+  sweep material.mu 0.06: 9000/10000
+  sweep material.mu 0.06: 9050/10000
+  sweep material.mu 0.06: 9150/10000
+  sweep material.mu 0.06: 9200/10000
+  sweep material.mu 0.06: 9250/10000
+  sweep material.mu 0.06: 9300/10000
+  sweep material.mu 0.06: 9350/10000
+  sweep material.mu 0.06: 9400/10000
+  sweep material.mu 0.06: 9450/10000
+  sweep material.mu 0.06: 9500/10000
+  sweep material.mu 0.06: 9600/10000
+  sweep material.mu 0.06: 9650/10000
+  sweep material.mu 0.06: 9750/10000
+  sweep material.mu 0.06: 9800/10000
+  sweep material.mu 0.06: 9900/10000
+  sweep material.mu 0.06: 9950/10000
+  sweep material.mu 0.06: 10000/10000
+  sweep material.mu -0.06: 50/10000
+  sweep material.mu -0.06: 200/10000
+  sweep material.mu -0.06: 350/10000
+  sweep material.mu -0.06: 500/10000
+  sweep material.mu -0.06: 650/10000
+  sweep material.mu -0.06: 800/10000
+  sweep material.mu -0.06: 900/10000
+  sweep material.mu -0.06: 950/10000
+  sweep material.mu -0.06: 1100/10000
+  sweep material.mu -0.06: 1250/10000
+  sweep material.mu -0.06: 1350/10000
+  sweep material.mu -0.06: 1400/10000
+  sweep material.mu -0.06: 1500/10000
+  sweep material.mu -0.06: 1550/10000
+  sweep material.mu -0.06: 1650/10000
+  sweep material.mu -0.06: 1700/10000
+  sweep material.mu -0.06: 1800/10000
+  sweep material.mu -0.06: 1850/10000
+  sweep material.mu -0.06: 1950/10000
+  sweep material.mu -0.06: 2000/10000
+  sweep material.mu -0.06: 2100/10000
+  sweep material.mu -0.06: 2150/10000
+  sweep material.mu -0.06: 2250/10000
+  sweep material.mu -0.06: 2300/10000
+  sweep material.mu -0.06: 2400/10000
+  sweep material.mu -0.06: 2450/10000
+  sweep material.mu -0.06: 2550/10000
+  sweep material.mu -0.06: 2600/10000
+  sweep material.mu -0.06: 2700/10000
+  sweep material.mu -0.06: 2750/10000
+  sweep material.mu -0.06: 2850/10000
+  sweep material.mu -0.06: 2900/10000
+  sweep material.mu -0.06: 2950/10000
+  sweep material.mu -0.06: 3100/10000
+  sweep material.mu -0.06: 3250/10000
+  sweep material.mu -0.06: 3400/10000
+  sweep material.mu -0.06: 3550/10000
+  sweep material.mu -0.06: 3700/10000
+  sweep material.mu -0.06: 3850/10000
+  sweep material.mu -0.06: 3950/10000
+  sweep material.mu -0.06: 4000/10000
+  sweep material.mu -0.06: 4100/10000
+  sweep material.mu -0.06: 4150/10000
+  sweep material.mu -0.06: 4250/10000
+  sweep material.mu -0.06: 4300/10000
+  sweep material.mu -0.06: 4400/10000
+  sweep material.mu -0.06: 4450/10000
+  sweep material.mu -0.06: 4550/10000
+  sweep material.mu -0.06: 4600/10000
+  sweep material.mu -0.06: 4650/10000
+  sweep material.mu -0.06: 4700/10000
+  sweep material.mu -0.06: 4750/10000
+  sweep material.mu -0.06: 4850/10000
+  sweep material.mu -0.06: 4900/10000
+  sweep material.mu -0.06: 5000/10000
+  sweep material.mu -0.06: 5050/10000
+  sweep material.mu -0.06: 5100/10000
+  sweep material.mu -0.06: 5150/10000
+  sweep material.mu -0.06: 5200/10000
+  sweep material.mu -0.06: 5250/10000
+  sweep material.mu -0.06: 5300/10000
+  sweep material.mu -0.06: 5350/10000
+  sweep material.mu -0.06: 5400/10000
+  sweep material.mu -0.06: 5450/10000
+  sweep material.mu -0.06: 5500/10000
+  sweep material.mu -0.06: 5550/10000
+  sweep material.mu -0.06: 5600/10000
+  sweep material.mu -0.06: 5650/10000
+  sweep material.mu -0.06: 5700/10000
+  sweep material.mu -0.06: 5750/10000
+  sweep material.mu -0.06: 5800/10000
+  sweep material.mu -0.06: 5850/10000
+  sweep material.mu -0.06: 5900/10000
+  sweep material.mu -0.06: 5950/10000
+  sweep material.mu -0.06: 6000/10000
+  sweep material.mu -0.06: 6050/10000
+  sweep material.mu -0.06: 6100/10000
+  sweep material.mu -0.06: 6200/10000
+  sweep material.mu -0.06: 6250/10000
+  sweep material.mu -0.06: 6350/10000
+  sweep material.mu -0.06: 6400/10000
+  sweep material.mu -0.06: 6500/10000
+  sweep material.mu -0.06: 6600/10000
+  sweep material.mu -0.06: 6650/10000
+  sweep material.mu -0.06: 6800/10000
+  sweep material.mu -0.06: 6900/10000
+  sweep material.mu -0.06: 6950/10000
+  sweep material.mu -0.06: 7100/10000
+  sweep material.mu -0.06: 7200/10000
+  sweep material.mu -0.06: 7250/10000
+  sweep material.mu -0.06: 7350/10000
+  sweep material.mu -0.06: 7400/10000
+  sweep material.mu -0.06: 7500/10000
+  sweep material.mu -0.06: 7550/10000
+  sweep material.mu -0.06: 7600/10000
+  sweep material.mu -0.06: 7700/10000
+  sweep material.mu -0.06: 7750/10000
+  sweep material.mu -0.06: 7850/10000
+  sweep material.mu -0.06: 7950/10000
+  sweep material.mu -0.06: 8000/10000
+  sweep material.mu -0.06: 8100/10000
+  sweep material.mu -0.06: 8150/10000
+  sweep material.mu -0.06: 8250/10000
+  sweep material.mu -0.06: 8300/10000
+  sweep material.mu -0.06: 8450/10000
+  sweep material.mu -0.06: 8550/10000
+  sweep material.mu -0.06: 8600/10000
+  sweep material.mu -0.06: 8700/10000
+  sweep material.mu -0.06: 8750/10000
+  sweep material.mu -0.06: 8850/10000
+  sweep material.mu -0.06: 8900/10000
+  sweep material.mu -0.06: 9000/10000
+  sweep material.mu -0.06: 9050/10000
+  sweep material.mu -0.06: 9100/10000
+  sweep material.mu -0.06: 9200/10000
+  sweep material.mu -0.06: 9250/10000
+  sweep material.mu -0.06: 9350/10000
+  sweep material.mu -0.06: 9400/10000
+  sweep material.mu -0.06: 9500/10000
+  sweep material.mu -0.06: 9550/10000
+  sweep material.mu -0.06: 9650/10000
+  sweep material.mu -0.06: 9700/10000
+  sweep material.mu -0.06: 9800/10000
+  sweep material.mu -0.06: 9850/10000
+  sweep material.mu -0.06: 9950/10000
+  sweep material.mu -0.06: 10000/10000
+  sweep surface.trackMu 30: 50/10000
+  sweep surface.trackMu 30: 200/10000
+  sweep surface.trackMu 30: 250/10000
+  sweep surface.trackMu 30: 350/10000
+  sweep surface.trackMu 30: 450/10000
+  sweep surface.trackMu 30: 500/10000
+  sweep surface.trackMu 30: 600/10000
+  sweep surface.trackMu 30: 650/10000
+  sweep surface.trackMu 30: 750/10000
+  sweep surface.trackMu 30: 800/10000
+  sweep surface.trackMu 30: 900/10000
+  sweep surface.trackMu 30: 950/10000
+  sweep surface.trackMu 30: 1050/10000
+  sweep surface.trackMu 30: 1100/10000
