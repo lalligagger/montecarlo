@@ -1,2 +1,4 @@
 pilot: 200 trials of the unmodified model
   baseline: 50/200
+  baseline: 200/200
+probe: 60 parameters x 2 signs x 200 trials
