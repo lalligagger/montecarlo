@@ -7603,3 +7603,17 @@ plan: 67 cases x 10000 trials, about 1208 min
   dose fret.17.cor -90: 9900/10000
   dose fret.17.cor -90: 9950/10000
   dose fret.17.cor -90: 10000/10000
+  dose pocket.17.cor 30: 50/10000
+  dose pocket.17.cor 30: 200/10000
+  dose pocket.17.cor 30: 350/10000
+  dose pocket.17.cor 30: 450/10000
+  dose pocket.17.cor 30: 500/10000
+  dose pocket.17.cor 30: 600/10000
+  dose pocket.17.cor 30: 650/10000
+  dose pocket.17.cor 30: 750/10000
+  dose pocket.17.cor 30: 800/10000
+  dose pocket.17.cor 30: 900/10000
+  dose pocket.17.cor 30: 950/10000
+  dose pocket.17.cor 30: 1050/10000
+  dose pocket.17.cor 30: 1100/10000
+  dose pocket.17.cor 30: 1200/10000
