@@ -1511,3 +1511,5 @@ plan: 67 cases x 6000 trials, about 664 min
   sweep material.muSBrass 0.135: 2950/6000
   sweep material.muSBrass 0.135: 3050/6000
   sweep material.muSBrass 0.135: 3100/6000
+  sweep material.muSBrass 0.135: 3200/6000
+  sweep material.muSBrass 0.135: 3250/6000
