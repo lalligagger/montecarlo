@@ -9112,3 +9112,5 @@ plan: 67 cases x 10000 trials, about 1208 min
   solo spindle.tiltX -0.09: 3100/10000
   solo spindle.tiltX -0.09: 3150/10000
   solo spindle.tiltX -0.09: 3200/10000
+  solo spindle.tiltX -0.09: 3250/10000
+  solo spindle.tiltX -0.09: 3300/10000
