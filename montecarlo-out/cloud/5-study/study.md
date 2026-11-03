@@ -87,3 +87,31 @@ What N buys, per case:
 | 100,000 | 2.8 h | 7.7% | 11% | 0.023 |
 | 300,000 | 8.3 h | 4.4% | 6.4% | 0.0133 |
 | 1,000,000 | 27.5 h | 2.4% | 3.5% | 0.00727 |
+
+## Sweep
+
+6000 trials per case. Two clean baselines on different seeds gave p = 0.8123, which is what no change looks like here.
+
+| Parameter | Delta | Reached | Moved outcome | Paired p | q | Most changed category | Gained / lost | Its q | Against null p |
+|---|---|---|---|---|---|---|---|---|---|
+| material.mu | 0.06 dimensionless | 100% | 97% | 0.4680 | 0.5616 | 20 | 166 / 126 | 1.0000 | 0.2134 |
+| material.mu | -0.06 dimensionless | 100% | 97% | 0.1654 | 0.4963 | 14 | 129 / 178 | 0.6729 | 0.0821 |
+| surface.trackMu | 30 % | 100% | 100% | 0.3388 | 0.5121 | 1 | 138 / 174 | 1.0000 | 0.2427 |
+| surface.trackMu | -30 % | 100% | 97% | 0.5706 | 0.5706 | 29 | 181 / 142 | 1.0000 | 0.4499 |
+| bowl.upperTrackDeg | 0.45 deg | 100% | 74% | 0.3414 | 0.5121 | 28 | 94 / 131 | 1.0000 | 0.3073 |
+| bowl.upperTrackDeg | -0.45 deg | 100% | 77% | 0.1334 | 0.4963 | 20 | 151 / 101 | 0.4361 | 0.2180 |
+
+**Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
+
+Mean paired change in each metric:
+
+| Parameter | Delta | rimTime | totalTime | settleTime | leaveSpeed | fretHits | deflectorHits | leaveAz | rotorEntryAz | scatter |
+|---|---|---|---|---|---|---|---|---|---|---|
+| material.mu | 0.06 | 4.8 * | 4.85 * | -0.0155 * | -0.000105 * | -0.254 * | 0.0715 | -74.9 * | -73.9 * | 24.7 * |
+| material.mu | -0.06 | -3.63 * | -5.42 * | 0.0775 * | 0.072 * | 0.248 * | -0.204 * | 8.84 * | -29.3 * | 41.3 * |
+| surface.trackMu | 30 | 2.58 * | 2.64 * | 0.0214 * | -0.0000913 * | 0.116 * | 0.0518 | 79.8 * | 92.7 * | 13 * |
+| surface.trackMu | -30 | -3.73 * | -3.69 * | 0.0347 * | 0.0324 * | 0.708 * | -0.0242 | -131 * | -88.7 * | -41.1 * |
+| bowl.upperTrackDeg | 0.45 | -0.107 * | -0.072 * | 0.000998 | 0.014 * | 0.197 * | 0.0685 | 5.34 * | -4.59 * | -14 * |
+| bowl.upperTrackDeg | -0.45 | 0.113 * | 0.08 * | 0.000273 | -0.0141 * | -0.0947 * | -0.0357 | -5.96 * | 2.37 * | 12.8 * |
+
+`*` marks a paired |z| above 3.5.
