@@ -2051,3 +2051,5 @@ plan: 67 cases x 6000 trials, about 664 min
   sweep deflector.2.radius -1.2000000000000002: 3350/6000
   sweep deflector.2.radius -1.2000000000000002: 3500/6000
   sweep deflector.2.radius -1.2000000000000002: 3600/6000
+  sweep deflector.2.radius -1.2000000000000002: 3650/6000
+  sweep deflector.2.radius -1.2000000000000002: 3750/6000
