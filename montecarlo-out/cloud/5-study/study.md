@@ -227,3 +227,11 @@ Mean paired change in each metric:
 | pocket.17.depth | -3 | 0 | 0.000882 * | -0.00373 * | 0 | -0.0062 * | 0 | 0 | 0 | 0.0311 * |
 
 `*` marks a paired |z| above 3.5.
+
+## Cross-coupling
+
+Mean of ab - a - b + baseline, trial by trial. Zero means the pair just adds. `*` marks |z| above 3.5.
+
+| Pair | rimTime | totalTime | settleTime | leaveSpeed | fretHits | deflectorHits | leaveAz | rotorEntryAz | scatter | Outcome p |
+|---|---|---|---|---|---|---|---|---|---|---|
+| table.tiltX 0.15 x spindle.tiltX 0.09 | 0 | -0.00425 | -0.00229 | 0 | -0.0242 | 0.0002 | 0 | 0 | -0.0379 | 0.8499 |
