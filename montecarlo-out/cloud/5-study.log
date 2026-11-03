@@ -4344,3 +4344,5 @@ plan: 67 cases x 10000 trials, about 1208 min
   sweep deflector.1.yaw -1.5: 8150/10000
   sweep deflector.1.yaw -1.5: 8200/10000
   sweep deflector.1.yaw -1.5: 8250/10000
+  sweep deflector.1.yaw -1.5: 8300/10000
+  sweep deflector.1.yaw -1.5: 8350/10000
