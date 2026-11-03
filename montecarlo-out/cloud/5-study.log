@@ -6687,3 +6687,5 @@ plan: 67 cases x 6000 trials, about 664 min
   stackup: 1100/6000
   stackup: 1250/6000
   stackup: 1400/6000
+  stackup: 1550/6000
+  stackup: 1700/6000
