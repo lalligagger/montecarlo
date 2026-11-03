@@ -195,3 +195,52 @@ probe: 60 parameters x 2 signs x 200 trials
   probe fret.17.angle -0.09: 50/200
   probe fret.17.angle -0.09: 200/200
   probe fret.17.cor 9: 50/200
+  probe fret.17.cor 9: 200/200
+  probe fret.17.cor -9: 50/200
+  probe fret.17.cor -9: 200/200
+  probe pocket.17.depth 0.30000000000000004: 50/200
+  probe pocket.17.depth 0.30000000000000004: 200/200
+  probe pocket.17.depth -0.30000000000000004: 50/200
+  probe pocket.17.depth -0.30000000000000004: 200/200
+  probe pocket.17.cor 9: 50/200
+  probe pocket.17.cor 9: 200/200
+  probe pocket.17.cor -9: 50/200
+  probe pocket.17.cor -9: 200/200
+  probe material.density 74.99999999999966: 50/200
+  probe material.density 74.99999999999966: 200/200
+  probe material.density -74.99999999999966: 50/200
+  probe material.density -74.99999999999966: 200/200
+  probe material.cor 0.22499999999999998: 50/200
+  probe material.cor 0.22499999999999998: 200/200
+  probe material.cor -0.22499999999999998: 50/200
+  probe material.cor -0.22499999999999998: 200/200
+  probe material.mu 0.06: 50/200
+  probe material.mu 0.06: 200/200
+  probe material.mu -0.06: 50/200
+  probe material.mu -0.06: 200/200
+  probe material.muS 0.07: 50/200
+  probe material.muS 0.07: 200/200
+  probe material.muS -0.07: 50/200
+  probe material.muS -0.07: 200/200
+  probe material.crr 0.004: 50/200
+  probe material.crr 0.004: 200/200
+  probe material.crr -0.004: 50/200
+  probe material.crr -0.004: 200/200
+  probe material.corBrass 0.22500000000000003: 50/200
+  probe material.corBrass 0.22500000000000003: 200/200
+  probe material.corBrass -0.22500000000000003: 50/200
+  probe material.corBrass -0.22500000000000003: 200/200
+  probe material.muBrass 0.11250000000000002: 50/200
+  probe material.muBrass 0.11250000000000002: 200/200
+  probe material.muBrass -0.11250000000000002: 50/200
+  probe material.muBrass -0.11250000000000002: 200/200
+  probe material.muSBrass 0.135: 50/200
+  probe material.muSBrass 0.135: 200/200
+  probe material.muSBrass -0.135: 50/200
+  probe material.muSBrass -0.135: 200/200
+  probe material.crrBrass 0.003: 50/200
+  probe material.crrBrass 0.003: 200/200
+  probe material.crrBrass -0.003: 50/200
+  probe material.crrBrass -0.003: 200/200
+plan: 67 cases x 10000 trials, about 1250 min
+  baseline full: 50/10000
