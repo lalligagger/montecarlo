@@ -243,3 +243,6 @@ Mean of ab - a - b + baseline, trial by trial. Zero means the pair just adds. `*
 | spindle.tiltX 0.09 x rotor.wobbleCos 0.06 | 0 | 0.00046 | 0.0000652 | 0 | 0.00183 | 0.000833 | 0 | 0 | -0.0503 | 1.0000 |
 | spindle.tiltX 0.09 x rotor.wobbleCos -0.06 | 0 | 0.000645 | -0.0000543 | 0 | -0.0173 | -0.000167 | 0 | 0 | -0.107 | 1.0000 |
 | spindle.tiltX 0.09 x rotor.imbalanceCos 0.6 | 0 | 0.000132 | -0.000102 | 0 | -0.000833 | 0.000167 | 0 | 0 | -0.0277 | 1.0000 |
+| spindle.tiltX 0.09 x rotor.imbalanceCos -0.6 | 0 | -0.000111 | -0.000273 | 0 | -0.00417 | 0.000333 | 0 | 0 | -0.00801 | 1.0000 |
+| rotor.wobbleCos 0.06 x rotor.imbalanceCos 0.6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.0000 |
+| rotor.wobbleCos 0.06 x rotor.imbalanceCos -0.6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.0000 |
