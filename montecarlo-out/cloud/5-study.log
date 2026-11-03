@@ -4864,3 +4864,6 @@ plan: 67 cases x 10000 trials, about 1540 min
   sweep fret.17.cor 9: 4850/10000
   sweep fret.17.cor 9: 4900/10000
   sweep fret.17.cor 9: 5000/10000
+  sweep fret.17.cor 9: 5050/10000
+  sweep fret.17.cor 9: 5100/10000
+  sweep fret.17.cor 9: 5150/10000
