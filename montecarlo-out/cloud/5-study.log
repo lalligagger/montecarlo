@@ -5761,3 +5761,4 @@ plan: 67 cases x 6000 trials, about 664 min
   solo spindle.tiltX 0.09: 1100/6000
   solo spindle.tiltX 0.09: 1250/6000
   solo spindle.tiltX 0.09: 1400/6000
+  solo spindle.tiltX 0.09: 1550/6000
