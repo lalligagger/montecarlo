@@ -912,3 +912,5 @@ plan: 67 cases x 10000 trials, about 1215 min
   sweep surface.trackMu 30: 6200/10000
   sweep surface.trackMu 30: 6250/10000
   sweep surface.trackMu 30: 6300/10000
+  sweep surface.trackMu 30: 6350/10000
+  sweep surface.trackMu 30: 6400/10000
