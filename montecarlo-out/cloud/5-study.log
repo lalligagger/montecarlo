@@ -3359,3 +3359,4 @@ plan: 67 cases x 6000 trials, about 664 min
   sweep table.tiltX -0.15000000000000002: 4450/6000
   sweep table.tiltX -0.15000000000000002: 4500/6000
   sweep table.tiltX -0.15000000000000002: 4600/6000
+  sweep table.tiltX -0.15000000000000002: 4650/6000
