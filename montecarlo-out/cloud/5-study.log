@@ -2053,3 +2053,45 @@ plan: 67 cases x 6000 trials, about 664 min
   sweep deflector.2.radius -1.2000000000000002: 3600/6000
   sweep deflector.2.radius -1.2000000000000002: 3650/6000
   sweep deflector.2.radius -1.2000000000000002: 3750/6000
+  sweep deflector.2.radius -1.2000000000000002: 3800/6000
+  sweep deflector.2.radius -1.2000000000000002: 3900/6000
+  sweep deflector.2.radius -1.2000000000000002: 3950/6000
+  sweep deflector.2.radius -1.2000000000000002: 4050/6000
+  sweep deflector.2.radius -1.2000000000000002: 4100/6000
+  sweep deflector.2.radius -1.2000000000000002: 4200/6000
+  sweep deflector.2.radius -1.2000000000000002: 4250/6000
+  sweep deflector.2.radius -1.2000000000000002: 4350/6000
+  sweep deflector.2.radius -1.2000000000000002: 4400/6000
+  sweep deflector.2.radius -1.2000000000000002: 4500/6000
+  sweep deflector.2.radius -1.2000000000000002: 4550/6000
+  sweep deflector.2.radius -1.2000000000000002: 4650/6000
+  sweep deflector.2.radius -1.2000000000000002: 4700/6000
+  sweep deflector.2.radius -1.2000000000000002: 4850/6000
+  sweep deflector.2.radius -1.2000000000000002: 4900/6000
+  sweep deflector.2.radius -1.2000000000000002: 5000/6000
+  sweep deflector.2.radius -1.2000000000000002: 5050/6000
+  sweep deflector.2.radius -1.2000000000000002: 5150/6000
+  sweep deflector.2.radius -1.2000000000000002: 5200/6000
+  sweep deflector.2.radius -1.2000000000000002: 5300/6000
+  sweep deflector.2.radius -1.2000000000000002: 5350/6000
+  sweep deflector.2.radius -1.2000000000000002: 5400/6000
+  sweep deflector.2.radius -1.2000000000000002: 5450/6000
+  sweep deflector.2.radius -1.2000000000000002: 5500/6000
+  sweep deflector.2.radius -1.2000000000000002: 5600/6000
+  sweep deflector.2.radius -1.2000000000000002: 5650/6000
+  sweep deflector.2.radius -1.2000000000000002: 5750/6000
+  sweep deflector.2.radius -1.2000000000000002: 5800/6000
+  sweep deflector.2.radius -1.2000000000000002: 5850/6000
+  sweep deflector.2.radius -1.2000000000000002: 5900/6000
+  sweep deflector.2.radius -1.2000000000000002: 5950/6000
+  sweep deflector.2.radius -1.2000000000000002: 6000/6000
+  sweep deflector.2.az 0.44999999999999996: 50/6000
+  sweep deflector.2.az 0.44999999999999996: 200/6000
+  sweep deflector.2.az 0.44999999999999996: 350/6000
+  sweep deflector.2.az 0.44999999999999996: 500/6000
+  sweep deflector.2.az 0.44999999999999996: 650/6000
+  sweep deflector.2.az 0.44999999999999996: 800/6000
+  sweep deflector.2.az 0.44999999999999996: 950/6000
+  sweep deflector.2.az 0.44999999999999996: 1050/6000
+  sweep deflector.2.az 0.44999999999999996: 1100/6000
+  sweep deflector.2.az 0.44999999999999996: 1200/6000
