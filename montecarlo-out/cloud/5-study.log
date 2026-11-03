@@ -6338,3 +6338,40 @@ plan: 67 cases x 6000 trials, about 664 min
   pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3750/6000
   pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3800/6000
   pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3900/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 3950/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4050/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4100/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4200/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4250/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4350/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4400/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4500/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4550/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4650/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4700/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4800/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4850/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 4950/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5000/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5050/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5100/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5150/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5250/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5300/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5400/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5450/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5500/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5550/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5600/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5650/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5700/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5750/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5800/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5850/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5900/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 5950/6000
+  pair spindle.tiltX 0.09 rotor.imbalanceCos -0.6000000000000001: 6000/6000
+  solo rotor.imbalanceCos 0.6000000000000001: 50/6000
+  solo rotor.imbalanceCos 0.6000000000000001: 200/6000
+  solo rotor.imbalanceCos 0.6000000000000001: 350/6000
+  solo rotor.imbalanceCos 0.6000000000000001: 500/6000
