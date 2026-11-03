@@ -5444,3 +5444,5 @@ plan: 67 cases x 10000 trials, about 1208 min
   sweep pocket.17.cor -9: 6100/10000
   sweep pocket.17.cor -9: 6200/10000
   sweep pocket.17.cor -9: 6250/10000
+  sweep pocket.17.cor -9: 6350/10000
+  sweep pocket.17.cor -9: 6400/10000
