@@ -49,3 +49,391 @@ probe: 60 parameters x 2 signs x 200 trials
   probe bowl.trefoilCos -0.24: 200/200
   probe bowl.trefoilSin 0.24: 50/200
   probe bowl.trefoilSin 0.24: 200/200
+  probe bowl.trefoilSin -0.24: 50/200
+  probe bowl.trefoilSin -0.24: 200/200
+  probe bowl.warpCos 0.44999999999999996: 50/200
+  probe bowl.warpCos 0.44999999999999996: 200/200
+  probe bowl.warpCos -0.44999999999999996: 50/200
+  probe bowl.warpCos -0.44999999999999996: 200/200
+  probe bowl.warpSin 0.44999999999999996: 50/200
+  probe bowl.warpSin 0.44999999999999996: 200/200
+  probe bowl.warpSin -0.44999999999999996: 50/200
+  probe bowl.warpSin -0.44999999999999996: 200/200
+  probe bowl.dentDepth 0.15000000000000002: 50/200
+  probe bowl.dentDepth 0.15000000000000002: 200/200
+  probe bowl.dentDepth -0.15000000000000002: 50/200
+  probe bowl.dentDepth -0.15000000000000002: 200/200
+  probe spindle.offsetX 0.30000000000000004: 50/200
+  probe spindle.offsetX 0.30000000000000004: 200/200
+  probe spindle.offsetX -0.30000000000000004: 50/200
+  probe spindle.offsetX -0.30000000000000004: 200/200
+  probe spindle.offsetY 0.30000000000000004: 50/200
+  probe spindle.offsetY 0.30000000000000004: 200/200
+  probe spindle.offsetY -0.30000000000000004: 50/200
+  probe spindle.offsetY -0.30000000000000004: 200/200
+  probe spindle.tiltX 0.09: 50/200
+  probe spindle.tiltX 0.09: 200/200
+  probe spindle.tiltX -0.09: 50/200
+  probe spindle.tiltX -0.09: 200/200
+  probe spindle.tiltY 0.09: 50/200
+  probe spindle.tiltY 0.09: 200/200
+  probe spindle.tiltY -0.09: 50/200
+  probe spindle.tiltY -0.09: 200/200
+  probe spindle.height 0.6000000000000001: 50/200
+  probe spindle.height 0.6000000000000001: 200/200
+  probe spindle.height -0.6000000000000001: 50/200
+  probe spindle.height -0.6000000000000001: 200/200
+  probe spindle.dragDelta 0.009000000000000001: 50/200
+  probe spindle.dragDelta 0.009000000000000001: 200/200
+  probe spindle.dragDelta -0.009000000000000001: 50/200
+  probe spindle.dragDelta -0.009000000000000001: 200/200
+  probe rotor.eccCos 0.15000000000000002: 50/200
+  probe rotor.eccCos 0.15000000000000002: 200/200
+  probe rotor.eccCos -0.15000000000000002: 50/200
+  probe rotor.eccCos -0.15000000000000002: 200/200
+  probe rotor.eccSin 0.15000000000000002: 50/200
+  probe rotor.eccSin 0.15000000000000002: 200/200
+  probe rotor.eccSin -0.15000000000000002: 50/200
+  probe rotor.eccSin -0.15000000000000002: 200/200
+  probe rotor.wobbleCos 0.06: 50/200
+  probe rotor.wobbleCos 0.06: 200/200
+  probe rotor.wobbleCos -0.06: 50/200
+  probe rotor.wobbleCos -0.06: 200/200
+  probe rotor.wobbleSin 0.06: 50/200
+  probe rotor.wobbleSin 0.06: 200/200
+  probe rotor.wobbleSin -0.06: 50/200
+  probe rotor.wobbleSin -0.06: 200/200
+  probe rotor.imbalanceCos 0.6000000000000001: 50/200
+  probe rotor.imbalanceCos 0.6000000000000001: 200/200
+  probe rotor.imbalanceCos -0.6000000000000001: 50/200
+  probe rotor.imbalanceCos -0.6000000000000001: 200/200
+  probe rotor.imbalanceSin 0.6000000000000001: 50/200
+  probe rotor.imbalanceSin 0.6000000000000001: 200/200
+  probe rotor.imbalanceSin -0.6000000000000001: 50/200
+  probe rotor.imbalanceSin -0.6000000000000001: 200/200
+  probe ball.diameter 0.09: 50/200
+  probe ball.diameter 0.09: 200/200
+  probe ball.diameter -0.09: 50/200
+  probe ball.diameter -0.09: 200/200
+  probe ball.massPct 1.5: 50/200
+  probe ball.massPct 1.5: 200/200
+  probe ball.massPct -1.5: 50/200
+  probe ball.massPct -1.5: 200/200
+  probe ball.outOfRound 0.15000000000000002: 50/200
+  probe ball.outOfRound 0.15000000000000002: 200/200
+  probe ball.outOfRound -0.15000000000000002: 50/200
+  probe ball.outOfRound -0.15000000000000002: 200/200
+  probe ball.comOffset 0.06: 50/200
+  probe ball.comOffset 0.06: 200/200
+  probe ball.comOffset -0.06: 50/200
+  probe ball.comOffset -0.06: 200/200
+  probe surface.trackCor 9: 50/200
+  probe surface.trackCor 9: 200/200
+  probe surface.trackCor -9: 50/200
+  probe surface.trackCor -9: 200/200
+  probe surface.trackMu 30: 50/200
+  probe surface.trackMu 30: 200/200
+  probe surface.trackMu -30: 50/200
+  probe surface.trackMu -30: 200/200
+  probe surface.trackCrr 45: 50/200
+  probe surface.trackCrr 45: 200/200
+  probe surface.trackCrr -45: 50/200
+  probe surface.trackCrr -45: 200/200
+  probe surface.rotorCor 9: 50/200
+  probe surface.rotorCor 9: 200/200
+  probe surface.rotorCor -9: 50/200
+  probe surface.rotorCor -9: 200/200
+  probe surface.floorCor 9: 50/200
+  probe surface.floorCor 9: 200/200
+  probe surface.floorCor -9: 50/200
+  probe surface.floorCor -9: 200/200
+  probe surface.fretCor 9: 50/200
+  probe surface.fretCor 9: 200/200
+  probe surface.fretCor -9: 50/200
+  probe surface.fretCor -9: 200/200
+  probe surface.deflectorCor 9: 50/200
+  probe surface.deflectorCor 9: 200/200
+  probe surface.deflectorCor -9: 50/200
+  probe surface.deflectorCor -9: 200/200
+  probe deflector.1.az 0.44999999999999996: 50/200
+  probe deflector.1.az 0.44999999999999996: 200/200
+  probe deflector.1.az -0.44999999999999996: 50/200
+  probe deflector.1.az -0.44999999999999996: 200/200
+  probe deflector.1.radius 1.2000000000000002: 50/200
+  probe deflector.1.radius 1.2000000000000002: 200/200
+  probe deflector.1.radius -1.2000000000000002: 50/200
+  probe deflector.1.radius -1.2000000000000002: 200/200
+  probe deflector.1.height 0.6000000000000001: 50/200
+  probe deflector.1.height 0.6000000000000001: 200/200
+  probe deflector.1.height -0.6000000000000001: 50/200
+  probe deflector.1.height -0.6000000000000001: 200/200
+  probe deflector.1.yaw 1.5: 50/200
+  probe deflector.1.yaw 1.5: 200/200
+  probe deflector.1.yaw -1.5: 50/200
+  probe deflector.1.yaw -1.5: 200/200
+  probe deflector.2.az 0.44999999999999996: 50/200
+  probe deflector.2.az 0.44999999999999996: 200/200
+  probe deflector.2.az -0.44999999999999996: 50/200
+  probe deflector.2.az -0.44999999999999996: 200/200
+  probe deflector.2.radius 1.2000000000000002: 50/200
+  probe deflector.2.radius 1.2000000000000002: 200/200
+  probe deflector.2.radius -1.2000000000000002: 50/200
+  probe deflector.2.radius -1.2000000000000002: 200/200
+  probe deflector.2.height 0.6000000000000001: 50/200
+  probe deflector.2.height 0.6000000000000001: 200/200
+  probe deflector.2.height -0.6000000000000001: 50/200
+  probe deflector.2.height -0.6000000000000001: 200/200
+  probe deflector.2.yaw 1.5: 50/200
+  probe deflector.2.yaw 1.5: 200/200
+  probe deflector.2.yaw -1.5: 50/200
+  probe deflector.2.yaw -1.5: 200/200
+  probe fret.17.height 0.30000000000000004: 50/200
+  probe fret.17.height 0.30000000000000004: 200/200
+  probe fret.17.height -0.30000000000000004: 50/200
+  probe fret.17.height -0.30000000000000004: 200/200
+  probe fret.17.angle 0.09: 50/200
+  probe fret.17.angle 0.09: 200/200
+  probe fret.17.angle -0.09: 50/200
+  probe fret.17.angle -0.09: 200/200
+  probe fret.17.cor 9: 50/200
+  probe fret.17.cor 9: 200/200
+  probe fret.17.cor -9: 50/200
+  probe fret.17.cor -9: 200/200
+  probe pocket.17.depth 0.30000000000000004: 50/200
+  probe pocket.17.depth 0.30000000000000004: 200/200
+  probe pocket.17.depth -0.30000000000000004: 50/200
+  probe pocket.17.depth -0.30000000000000004: 200/200
+  probe pocket.17.cor 9: 50/200
+  probe pocket.17.cor 9: 200/200
+  probe pocket.17.cor -9: 50/200
+  probe pocket.17.cor -9: 200/200
+  probe material.density 74.99999999999966: 50/200
+  probe material.density 74.99999999999966: 200/200
+  probe material.density -74.99999999999966: 50/200
+  probe material.density -74.99999999999966: 200/200
+  probe material.cor 0.22499999999999998: 50/200
+  probe material.cor 0.22499999999999998: 200/200
+  probe material.cor -0.22499999999999998: 50/200
+  probe material.cor -0.22499999999999998: 200/200
+  probe material.mu 0.06: 50/200
+  probe material.mu 0.06: 200/200
+  probe material.mu -0.06: 50/200
+  probe material.mu -0.06: 200/200
+  probe material.muS 0.07: 50/200
+  probe material.muS 0.07: 200/200
+  probe material.muS -0.07: 50/200
+  probe material.muS -0.07: 200/200
+  probe material.crr 0.004: 50/200
+  probe material.crr 0.004: 200/200
+  probe material.crr -0.004: 50/200
+  probe material.crr -0.004: 200/200
+  probe material.corBrass 0.22500000000000003: 50/200
+  probe material.corBrass 0.22500000000000003: 200/200
+  probe material.corBrass -0.22500000000000003: 50/200
+  probe material.corBrass -0.22500000000000003: 200/200
+  probe material.muBrass 0.11250000000000002: 50/200
+  probe material.muBrass 0.11250000000000002: 200/200
+  probe material.muBrass -0.11250000000000002: 50/200
+  probe material.muBrass -0.11250000000000002: 200/200
+  probe material.muSBrass 0.135: 50/200
+  probe material.muSBrass 0.135: 200/200
+  probe material.muSBrass -0.135: 50/200
+  probe material.muSBrass -0.135: 200/200
+  probe material.crrBrass 0.003: 50/200
+  probe material.crrBrass 0.003: 200/200
+  probe material.crrBrass -0.003: 50/200
+  probe material.crrBrass -0.003: 200/200
+plan: 67 cases x 10000 trials, about 1215 min
+  baseline full: 50/10000
+  baseline full: 200/10000
+  baseline full: 350/10000
+  baseline full: 500/10000
+  baseline full: 650/10000
+  baseline full: 800/10000
+  baseline full: 950/10000
+  baseline full: 1100/10000
+  baseline full: 1250/10000
+  baseline full: 1400/10000
+  baseline full: 1550/10000
+  baseline full: 1700/10000
+  baseline full: 1850/10000
+  baseline full: 2000/10000
+  baseline full: 2150/10000
+  baseline full: 2300/10000
+  baseline full: 2450/10000
+  baseline full: 2600/10000
+  baseline full: 2750/10000
+  baseline full: 2900/10000
+  baseline full: 3050/10000
+  baseline full: 3200/10000
+  baseline full: 3300/10000
+  baseline full: 3350/10000
+  baseline full: 3450/10000
+  baseline full: 3500/10000
+  baseline full: 3600/10000
+  baseline full: 3650/10000
+  baseline full: 3750/10000
+  baseline full: 3800/10000
+  baseline full: 3900/10000
+  baseline full: 3950/10000
+  baseline full: 4050/10000
+  baseline full: 4100/10000
+  baseline full: 4200/10000
+  baseline full: 4250/10000
+  baseline full: 4350/10000
+  baseline full: 4400/10000
+  baseline full: 4500/10000
+  baseline full: 4550/10000
+  baseline full: 4650/10000
+  baseline full: 4700/10000
+  baseline full: 4800/10000
+  baseline full: 4850/10000
+  baseline full: 4950/10000
+  baseline full: 5000/10000
+  baseline full: 5100/10000
+  baseline full: 5150/10000
+  baseline full: 5250/10000
+  baseline full: 5300/10000
+  baseline full: 5400/10000
+  baseline full: 5450/10000
+  baseline full: 5550/10000
+  baseline full: 5600/10000
+  baseline full: 5700/10000
+  baseline full: 5750/10000
+  baseline full: 5850/10000
+  baseline full: 5900/10000
+  baseline full: 6000/10000
+  baseline full: 6050/10000
+  baseline full: 6150/10000
+  baseline full: 6200/10000
+  baseline full: 6250/10000
+  baseline full: 6300/10000
+  baseline full: 6350/10000
+  baseline full: 6400/10000
+  baseline full: 6450/10000
+  baseline full: 6500/10000
+  baseline full: 6550/10000
+  baseline full: 6600/10000
+  baseline full: 6650/10000
+  baseline full: 6700/10000
+  baseline full: 6750/10000
+  baseline full: 6800/10000
+  baseline full: 6850/10000
+  baseline full: 6900/10000
+  baseline full: 6950/10000
+  baseline full: 7000/10000
+  baseline full: 7050/10000
+  baseline full: 7100/10000
+  baseline full: 7150/10000
+  baseline full: 7200/10000
+  baseline full: 7250/10000
+  baseline full: 7300/10000
+  baseline full: 7350/10000
+  baseline full: 7400/10000
+  baseline full: 7450/10000
+  baseline full: 7500/10000
+  baseline full: 7550/10000
+  baseline full: 7600/10000
+  baseline full: 7650/10000
+  baseline full: 7700/10000
+  baseline full: 7750/10000
+  baseline full: 7800/10000
+  baseline full: 7850/10000
+  baseline full: 7900/10000
+  baseline full: 7950/10000
+  baseline full: 8000/10000
+  baseline full: 8050/10000
+  baseline full: 8100/10000
+  baseline full: 8150/10000
+  baseline full: 8200/10000
+  baseline full: 8250/10000
+  baseline full: 8300/10000
+  baseline full: 8350/10000
+  baseline full: 8400/10000
+  baseline full: 8500/10000
+  baseline full: 8550/10000
+  baseline full: 8650/10000
+  baseline full: 8700/10000
+  baseline full: 8750/10000
+  baseline full: 8800/10000
+  baseline full: 8850/10000
+  baseline full: 8950/10000
+  baseline full: 9000/10000
+  baseline full: 9100/10000
+  baseline full: 9150/10000
+  baseline full: 9250/10000
+  baseline full: 9300/10000
+  baseline full: 9400/10000
+  baseline full: 9450/10000
+  baseline full: 9550/10000
+  baseline full: 9600/10000
+  baseline full: 9700/10000
+  baseline full: 9750/10000
+  baseline full: 9850/10000
+  baseline full: 9900/10000
+  baseline full: 10000/10000
+  null check: 50/10000
+  null check: 200/10000
+  null check: 350/10000
+  null check: 450/10000
+  null check: 500/10000
+  null check: 600/10000
+  null check: 650/10000
+  null check: 750/10000
+  null check: 800/10000
+  null check: 900/10000
+  null check: 950/10000
+  null check: 1000/10000
+  null check: 1100/10000
+  null check: 1150/10000
+  null check: 1200/10000
+  null check: 1250/10000
+  null check: 1300/10000
+  null check: 1350/10000
+  null check: 1400/10000
+  null check: 1450/10000
+  null check: 1500/10000
+  null check: 1550/10000
+  null check: 1600/10000
+  null check: 1700/10000
+  null check: 1800/10000
+  null check: 1850/10000
+  null check: 1950/10000
+  null check: 2000/10000
+  null check: 2100/10000
+  null check: 2150/10000
+  null check: 2250/10000
+  null check: 2300/10000
+  null check: 2350/10000
+  null check: 2400/10000
+  null check: 2450/10000
+  null check: 2500/10000
+  null check: 2550/10000
+  null check: 2600/10000
+  null check: 2650/10000
+  null check: 2700/10000
+  null check: 2750/10000
+  null check: 2800/10000
+  null check: 2850/10000
+  null check: 2900/10000
+  null check: 2950/10000
+  null check: 3000/10000
+  null check: 3050/10000
+  null check: 3100/10000
+  null check: 3150/10000
+  null check: 3200/10000
+  null check: 3250/10000
+  null check: 3300/10000
+  null check: 3350/10000
+  null check: 3400/10000
+  null check: 3450/10000
+  null check: 3500/10000
+  null check: 3550/10000
+  null check: 3600/10000
+  null check: 3650/10000
+  null check: 3700/10000
+  null check: 3750/10000
+  null check: 3800/10000
+  null check: 3850/10000
+  null check: 3900/10000
+  null check: 3950/10000
