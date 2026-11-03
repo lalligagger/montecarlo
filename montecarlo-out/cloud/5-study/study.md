@@ -183,3 +183,17 @@ Mean paired change in each metric:
 | rotor.wobbleCos | -0.06 | 0 | 0.00117 | -0.000319 | 0 | 0.0202 | 0.0001 | 0 | 0 | -0.0574 |
 
 `*` marks a paired |z| above 3.5.
+
+## Beyond tolerance
+
+| Parameter | Delta | Reached | Moved outcome | Paired p | q | Most changed category | Gained / lost | Its q | Against null p |
+|---|---|---|---|---|---|---|---|---|---|
+| fret.17.height | 1 mm (10 widths) | 5.3% | 0.9% | 0.2199 | 0.2199 | 25 | 10 / 20 | 1.0000 | 0.8513 |
+
+**Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
+
+| Parameter | Delta | rimTime | totalTime | settleTime | leaveSpeed | fretHits | deflectorHits | leaveAz | rotorEntryAz | scatter |
+|---|---|---|---|---|---|---|---|---|---|---|
+| fret.17.height | 1 | 0 | 0.00022 | -0.0000357 | 0 | 0.005 | 0 | 0 | 0 | -0.00973 |
+
+`*` marks a paired |z| above 3.5.
