@@ -5206,3 +5206,5 @@ plan: 67 cases x 6000 trials, about 664 min
   pair table.tiltX 0.15000000000000002 rotor.wobbleCos 0.06: 4900/6000
   pair table.tiltX 0.15000000000000002 rotor.wobbleCos 0.06: 5000/6000
   pair table.tiltX 0.15000000000000002 rotor.wobbleCos 0.06: 5050/6000
+  pair table.tiltX 0.15000000000000002 rotor.wobbleCos 0.06: 5150/6000
+  pair table.tiltX 0.15000000000000002 rotor.wobbleCos 0.06: 5200/6000
