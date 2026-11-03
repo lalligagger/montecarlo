@@ -1,0 +1,5 @@
+2026-11-03T02:07:28Z start 0-tests
+2026-11-03T02:08:31Z done 0-tests
+2026-11-03T02:08:31Z skip 1-wobble (done)
+2026-11-03T02:08:31Z skip 2-local (done)
+2026-11-03T02:08:31Z start 3-phase
