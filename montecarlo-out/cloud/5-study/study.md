@@ -246,3 +246,7 @@ Mean of ab - a - b + baseline, trial by trial. Zero means the pair just adds. `*
 | spindle.tiltX 0.09 x rotor.imbalanceCos -0.6 | 0 | -0.000111 | -0.000273 | 0 | -0.00417 | 0.000333 | 0 | 0 | -0.00801 | 1.0000 |
 | rotor.wobbleCos 0.06 x rotor.imbalanceCos 0.6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.0000 |
 | rotor.wobbleCos 0.06 x rotor.imbalanceCos -0.6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1.0000 |
+
+## The whole stackup at once
+
+20 built instances, 300 trials each, every selected tolerance drawn with its correlations. Against the null, p = 0.4855; against the unmodified model, p = 0.1312. 8 invalid.
