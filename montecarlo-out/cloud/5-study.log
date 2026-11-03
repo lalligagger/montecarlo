@@ -6168,3 +6168,6 @@ plan: 67 cases x 10000 trials, about 1540 min
   sweep rotor.wobbleCos -0.06: 6550/10000
   sweep rotor.wobbleCos -0.06: 6650/10000
   sweep rotor.wobbleCos -0.06: 6700/10000
+  sweep rotor.wobbleCos -0.06: 6800/10000
+  sweep rotor.wobbleCos -0.06: 6850/10000
+  sweep rotor.wobbleCos -0.06: 6950/10000
