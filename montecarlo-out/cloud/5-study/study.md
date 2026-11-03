@@ -87,3 +87,27 @@ What N buys, per case:
 | 100,000 | 3.8 h | 7.7% | 11% | 0.023 |
 | 300,000 | 11.5 h | 4.4% | 6.4% | 0.0133 |
 | 1,000,000 | 38.3 h | 2.4% | 3.5% | 0.00727 |
+
+## Sweep
+
+10000 trials per case. Two clean baselines on different seeds gave p = 0.9447, which is what no change looks like here.
+
+| Parameter | Delta | Reached | Moved outcome | Paired p | q | Most changed category | Gained / lost | Its q | Against null p |
+|---|---|---|---|---|---|---|---|---|---|
+| material.mu | 0.06 dimensionless | 100% | 97% | 0.7169 | 0.7468 | 20 | 267 / 215 | 1.0000 | 0.3188 |
+| material.mu | -0.06 dimensionless | 100% | 97% | 0.3146 | 0.7468 | 29 | 293 / 241 | 1.0000 | 0.1854 |
+| surface.trackMu | 30 % | 100% | 100% | 0.4573 | 0.7468 | 20 | 273 / 222 | 1.0000 | 0.1907 |
+| surface.trackMu | -30 % | 100% | 97% | 0.7468 | 0.7468 | 29 | 293 / 242 | 1.0000 | 0.6387 |
+
+**Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
+
+Mean paired change in each metric:
+
+| Parameter | Delta | rimTime | totalTime | settleTime | leaveSpeed | fretHits | deflectorHits | leaveAz | rotorEntryAz | scatter |
+|---|---|---|---|---|---|---|---|---|---|---|
+| material.mu | 0.06 | 4.8 * | 4.85 * | -0.0153 * | -0.000105 * | -0.274 * | 0.0602 * | -74.6 * | -73.9 * | 24.7 * |
+| material.mu | -0.06 | -3.63 * | -5.41 * | 0.0781 * | 0.072 * | 0.248 * | -0.212 * | 8.57 * | -28.9 * | 41.3 * |
+| surface.trackMu | 30 | 2.58 * | 2.66 * | 0.0214 * | -0.0000913 * | 0.085 * | 0.0412 | 80.4 * | 92.9 * | 12.9 * |
+| surface.trackMu | -30 | -3.73 * | -3.69 * | 0.0367 * | 0.0323 * | 0.679 * | -0.0306 | -131 * | -89.7 * | -41 * |
+
+`*` marks a paired |z| above 3.5.
