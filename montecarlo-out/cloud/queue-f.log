@@ -1,0 +1,10 @@
+2026-11-03T14:26:34Z start 0-tests
+2026-11-03T14:27:23Z done 0-tests
+2026-11-03T14:27:23Z skip 1-wobble (done)
+2026-11-03T14:27:23Z skip 2-local (done)
+2026-11-03T14:27:23Z skip 3-phase (done)
+2026-11-03T14:27:23Z skip 4-tilt-boxwood (done)
+2026-11-03T14:27:23Z start 4-tilt-acetal
+2026-11-03T20:14:21Z done 4-tilt-acetal
+2026-11-03T20:14:22Z skip 5-study (done)
+2026-11-03T20:14:22Z queue finished
