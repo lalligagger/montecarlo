@@ -81,3 +81,4 @@ probe: 60 parameters x 2 signs x 200 trials
   probe spindle.height 0.6000000000000001: 50/200
   probe spindle.height 0.6000000000000001: 200/200
   probe spindle.height -0.6000000000000001: 50/200
+  probe spindle.height -0.6000000000000001: 200/200
