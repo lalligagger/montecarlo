@@ -944,3 +944,4 @@ plan: 67 cases x 6000 trials, about 664 min
   sweep bowl.ovalSin -0.44999999999999996: 200/6000
   sweep bowl.ovalSin -0.44999999999999996: 350/6000
   sweep bowl.ovalSin -0.44999999999999996: 500/6000
+  sweep bowl.ovalSin -0.44999999999999996: 650/6000
