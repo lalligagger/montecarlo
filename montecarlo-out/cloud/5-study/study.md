@@ -94,12 +94,13 @@ What N buys, per case:
 
 | Parameter | Delta | Reached | Moved outcome | Paired p | q | Most changed category | Gained / lost | Its q | Against null p |
 |---|---|---|---|---|---|---|---|---|---|
-| material.mu | 0.06 dimensionless | 100% | 97% | 0.4680 | 0.5616 | 20 | 166 / 126 | 1.0000 | 0.2134 |
-| material.mu | -0.06 dimensionless | 100% | 97% | 0.1654 | 0.4963 | 14 | 129 / 178 | 0.6729 | 0.0821 |
-| surface.trackMu | 30 % | 100% | 100% | 0.3388 | 0.5121 | 1 | 138 / 174 | 1.0000 | 0.2427 |
-| surface.trackMu | -30 % | 100% | 97% | 0.5706 | 0.5706 | 29 | 181 / 142 | 1.0000 | 0.4499 |
-| bowl.upperTrackDeg | 0.45 deg | 100% | 74% | 0.3414 | 0.5121 | 28 | 94 / 131 | 1.0000 | 0.3073 |
-| bowl.upperTrackDeg | -0.45 deg | 100% | 77% | 0.1334 | 0.4963 | 20 | 151 / 101 | 0.4361 | 0.2180 |
+| material.mu | 0.06 dimensionless | 100% | 97% | 0.4680 | 0.6209 | 20 | 166 / 126 | 1.0000 | 0.2134 |
+| material.mu | -0.06 dimensionless | 100% | 97% | 0.1654 | 0.5790 | 14 | 129 / 178 | 0.7851 | 0.0821 |
+| surface.trackMu | 30 % | 100% | 100% | 0.3388 | 0.5975 | 1 | 138 / 174 | 1.0000 | 0.2427 |
+| surface.trackMu | -30 % | 100% | 97% | 0.5706 | 0.6209 | 29 | 181 / 142 | 1.0000 | 0.4499 |
+| bowl.upperTrackDeg | 0.45 deg | 100% | 74% | 0.3414 | 0.5975 | 28 | 94 / 131 | 1.0000 | 0.3073 |
+| bowl.upperTrackDeg | -0.45 deg | 100% | 77% | 0.1334 | 0.5790 | 20 | 151 / 101 | 0.5088 | 0.2180 |
+| bowl.ovalSin | 0.45 mm | 100% | 78% | 0.6209 | 0.6209 | 20 | 128 / 92 | 1.0000 | 0.4155 |
 
 **Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
 
@@ -113,5 +114,6 @@ Mean paired change in each metric:
 | surface.trackMu | -30 | -3.73 * | -3.69 * | 0.0347 * | 0.0324 * | 0.708 * | -0.0242 | -131 * | -88.7 * | -41.1 * |
 | bowl.upperTrackDeg | 0.45 | -0.107 * | -0.072 * | 0.000998 | 0.014 * | 0.197 * | 0.0685 | 5.34 * | -4.59 * | -14 * |
 | bowl.upperTrackDeg | -0.45 | 0.113 * | 0.08 * | 0.000273 | -0.0141 * | -0.0947 * | -0.0357 | -5.96 * | 2.37 * | 12.8 * |
+| bowl.ovalSin | 0.45 | -0.0931 * | -0.115 * | 0.00689 | 0.014 * | 0.0826 | 0.0793 * | 0.164 | -0.505 | -0.865 |
 
 `*` marks a paired |z| above 3.5.
