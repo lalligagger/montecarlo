@@ -3345,3 +3345,4 @@ plan: 67 cases x 10000 trials, about 1540 min
   sweep deflector.1.az -0.44999999999999996: 8150/10000
   sweep deflector.1.az -0.44999999999999996: 8200/10000
   sweep deflector.1.az -0.44999999999999996: 8300/10000
+  sweep deflector.1.az -0.44999999999999996: 8400/10000
