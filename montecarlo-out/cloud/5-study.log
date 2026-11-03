@@ -495,3 +495,4 @@ plan: 67 cases x 10000 trials, about 1250 min
   null check: 6650/10000
   null check: 6700/10000
   null check: 6750/10000
+  null check: 6800/10000
