@@ -23577,7 +23577,7 @@
         "pCorrected": 0.7431405075073717,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -24077,7 +24077,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -24577,7 +24577,7 @@
         "pCorrected": 0.9072675852176412,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -25077,7 +25077,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -25577,7 +25577,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -26077,7 +26077,7 @@
         "pCorrected": 0.4981630819005199,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -26575,9 +26575,9 @@
         "p": 0.0025601045330389187,
         "category": 20,
         "pCorrected": 0.09472386772243999,
-        "q": 0.9472386772243998
+        "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -27077,7 +27077,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -27577,7 +27577,7 @@
         "pCorrected": 0.435921944501374,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -28077,7 +28077,7 @@
         "pCorrected": 0.5358277149285875,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -28577,7 +28577,7 @@
         "pCorrected": 0.45106755967938245,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -29261,7 +29261,7 @@
        "ratio": 1.3783783783783783,
        "p": 0.007825715516612337,
        "category": 20,
-       "q": 0.2347714654983701
+       "q": 0.2582486120482071
       },
       "paired": {
        "x2": 35.36675679171881,
@@ -29574,9 +29574,9 @@
         "p": 0.0002653184638139645,
         "category": 20,
         "pCorrected": 0.009816783161116687,
-        "q": 0.2945034948335006
+        "q": 0.32395384431685065
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -29761,7 +29761,7 @@
        "ratio": 1.3288288288288288,
        "p": 0.04227319928726332,
        "category": 20,
-       "q": 0.6340979893089498
+       "q": 0.6975077882398448
       },
       "paired": {
        "x2": 33.08701828936955,
@@ -30074,9 +30074,9 @@
         "p": 0.0013926148398097165,
         "category": 20,
         "pCorrected": 0.05152674907295951,
-        "q": 0.7729012360943927
+        "q": 0.850191359703832
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -30576,7 +30576,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -31076,7 +31076,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -31576,7 +31576,7 @@
         "pCorrected": 0.9110447685261723,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -32076,7 +32076,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8879174573515758
+       "q": 0.8821889576267269
       },
       "q": 1
      },
@@ -32576,7 +32576,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -33076,7 +33076,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -33576,7 +33576,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -34076,7 +34076,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -34576,7 +34576,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -35076,7 +35076,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -35576,7 +35576,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -36076,7 +36076,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.9378056812612764
+       "q": 0.9348750385073349
       },
       "q": 1
      },
@@ -36576,7 +36576,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -37076,7 +37076,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -37576,7 +37576,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -38076,7 +38076,7 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.8297662819022977
+       "q": 0.8214686190832747
       },
       "q": 1
      },
@@ -38246,6 +38246,1506 @@
       }
      },
      "vsNullP": 0.860878461839863
+    },
+    {
+     "parameter": "fret.17.cor",
+     "delta": 9,
+     "unit": "%",
+     "outcome": {
+      "x2": 0.1431590517818053,
+      "df": 36,
+      "p": 1,
+      "largest": {
+       "index": 8,
+       "z": -0.21951888251855162,
+       "ratio": 0.9814126394052044,
+       "p": 1,
+       "category": 17,
+       "q": 1
+      },
+      "paired": {
+       "x2": 16.922695035460997,
+       "df": 14,
+       "p": 0.2603208835036601,
+       "discordant": 45,
+       "perCategory": [
+        {
+         "index": 0,
+         "gained": 5,
+         "lost": 3,
+         "p": 0.7265625,
+         "category": 0,
+         "smallestShift": 0.02930250501237053
+        },
+        {
+         "index": 1,
+         "gained": 4,
+         "lost": 4,
+         "p": 1,
+         "category": 32,
+         "smallestShift": 0.02930250501237053
+        },
+        {
+         "index": 2,
+         "gained": 4,
+         "lost": 2,
+         "p": 0.6875000000000014,
+         "category": 15,
+         "smallestShift": 0.025376713735233723
+        },
+        {
+         "index": 3,
+         "gained": 2,
+         "lost": 5,
+         "p": 0.45312500000000044,
+         "category": 19,
+         "smallestShift": 0.02740998358262916
+        },
+        {
+         "index": 4,
+         "gained": 1,
+         "lost": 3,
+         "p": 0.6249999999999993,
+         "category": 4,
+         "smallestShift": 0.02072
+        },
+        {
+         "index": 5,
+         "gained": 1,
+         "lost": 2,
+         "p": 0.9999999999999996,
+         "category": 21,
+         "smallestShift": 0.017944046366413568
+        },
+        {
+         "index": 6,
+         "gained": 3,
+         "lost": 1,
+         "p": 0.6249999999999993,
+         "category": 2,
+         "smallestShift": 0.02072
+        },
+        {
+         "index": 7,
+         "gained": 2,
+         "lost": 3,
+         "p": 1,
+         "category": 25,
+         "smallestShift": 0.02316566424689782
+        },
+        {
+         "index": 8,
+         "gained": 3,
+         "lost": 8,
+         "p": 0.22656249999999944,
+         "category": 17,
+         "smallestShift": 0.03436023282808194
+        },
+        {
+         "index": 9,
+         "gained": 10,
+         "lost": 9,
+         "p": 0.9999999999999969,
+         "category": 34,
+         "smallestShift": 0.045158193055081376
+        },
+        {
+         "index": 10,
+         "gained": 7,
+         "lost": 3,
+         "p": 0.34374999999999956,
+         "category": 6,
+         "smallestShift": 0.03276119655934441
+        },
+        {
+         "index": 11,
+         "gained": 1,
+         "lost": 0,
+         "p": 1,
+         "category": 27,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 12,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 13,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 13,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 36,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 14,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 11,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 15,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 30,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 16,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 8,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 17,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 23,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 18,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 10,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 19,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 5,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 20,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 24,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 21,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 16,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 22,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 33,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 23,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 1,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 24,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 20,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 25,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 14,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 26,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 31,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 27,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 9,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 28,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 22,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 29,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 18,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 30,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 29,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 31,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 7,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 32,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 28,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 33,
+         "gained": 0,
+         "lost": 2,
+         "p": 0.5000000000000004,
+         "category": 12,
+         "smallestShift": 0.014651252506185266
+        },
+        {
+         "index": 34,
+         "gained": 1,
+         "lost": 0,
+         "p": 1,
+         "category": 35,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 35,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 3,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 36,
+         "gained": 1,
+         "lost": 0,
+         "p": 1,
+         "category": 26,
+         "smallestShift": 0.01036
+        }
+       ],
+       "n": 10000,
+       "top": {
+        "index": 8,
+        "gained": 3,
+        "lost": 8,
+        "p": 0.22656249999999944,
+        "category": 17,
+        "pCorrected": 1,
+        "q": 1
+       },
+       "q": 0.8214686190832747
+      },
+      "q": 1
+     },
+     "reach": {
+      "sameOutcome": 0.9955,
+      "identicalTrials": 0.9428
+     },
+     "metrics": {
+      "rimTime": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.004418093291069439,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "totalTime": {
+       "kind": "linear",
+       "diff": 0.0002853780000044992,
+       "se": 0.005253885809290263,
+       "p": 1,
+       "d": 0.0020999999999999908,
+       "paired": {
+        "mean": 0.00028537799998919623,
+        "sd": 0.026949453612773806,
+        "se": 0.0002694945361277381,
+        "z": 1.0589379810428867,
+        "p": 0.28962804270716486,
+        "effect": 0.0007677201726241962,
+        "unchanged": 0.9428
+       }
+      },
+      "settleTime": {
+       "kind": "linear",
+       "diff": 0.00007903049999657963,
+       "se": 0.001591551536912272,
+       "p": 1,
+       "d": 0.0023000000000000798,
+       "paired": {
+        "mean": 0.00007903049999700809,
+        "sd": 0.02491127075886787,
+        "se": 0.0002491127075886787,
+        "z": 0.31724796684197637,
+        "p": 0.751055474553735,
+        "effect": 0.0007022157587694417,
+        "unchanged": 0.9428
+       }
+      },
+      "leaveSpeed": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 1.0165314036189653e-8,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "fretHits": {
+       "kind": "linear",
+       "diff": 0.011100000000000332,
+       "se": 0.021464032367394133,
+       "p": 1,
+       "d": 0.0036000000000000476,
+       "paired": {
+        "mean": 0.0111,
+        "sd": 0.3120681474499789,
+        "se": 0.003120681474499789,
+        "z": 3.5569154015563886,
+        "p": 0.00037523496056396843,
+        "effect": 0.007353785277244316,
+        "unchanged": 0.9795
+       }
+      },
+      "deflectorHits": {
+       "kind": "linear",
+       "diff": 0.00009999999999998899,
+       "se": 0.01611091726642243,
+       "p": 1,
+       "d": 0.00009999999999998899,
+       "paired": {
+        "mean": 0.0001,
+        "sd": 0.01000000000000037,
+        "se": 0.00010000000000000369,
+        "z": 0.9999999999999631,
+        "p": 0.3173105227913672,
+        "effect": 0.00008778332958488335,
+        "unchanged": 0.9999
+       }
+      },
+      "leaveAz": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.008150908735323065,
+       "rBarBase": 0.008150908735323065,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "rotorEntryAz": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.007883064070975342,
+       "rBarBase": 0.007883064070975342,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "scatter": {
+       "kind": "circular",
+       "meanShiftDeg": 0.0099848254283188,
+       "rBar": 0.5764030533513002,
+       "rBarBase": 0.5764936303694954,
+       "concentration": {
+        "change": -0.00009057701819525921,
+        "z": -0.00905770181952592
+       },
+       "d": 0.0004000000000000045,
+       "p": 1,
+       "paired": {
+        "mean": 0.01070270270270272,
+        "sd": 0.8864002706406355,
+        "se": 0.008864002706406355,
+        "z": 1.2074345030341052,
+        "p": 0.22726487000056153,
+        "effect": 0.00017797640033467358,
+        "unchanged": 0.9955
+       }
+      }
+     },
+     "vsNullP": 0.9067078284476943
+    },
+    {
+     "parameter": "fret.17.cor",
+     "delta": -9,
+     "unit": "%",
+     "outcome": {
+      "x2": 0.2229166780422809,
+      "df": 36,
+      "p": 1,
+      "largest": {
+       "index": 10,
+       "z": -0.27227765450540714,
+       "ratio": 0.9761904761904762,
+       "p": 1,
+       "category": 6,
+       "q": 1
+      },
+      "paired": {
+       "x2": 28.759398496240586,
+       "df": 14,
+       "p": 0.011261779954559313,
+       "discordant": 42,
+       "perCategory": [
+        {
+         "index": 0,
+         "gained": 5,
+         "lost": 2,
+         "p": 0.45312500000000044,
+         "category": 0,
+         "smallestShift": 0.02740998358262916
+        },
+        {
+         "index": 1,
+         "gained": 1,
+         "lost": 5,
+         "p": 0.21875,
+         "category": 32,
+         "smallestShift": 0.025376713735233723
+        },
+        {
+         "index": 2,
+         "gained": 2,
+         "lost": 3,
+         "p": 1,
+         "category": 15,
+         "smallestShift": 0.02316566424689782
+        },
+        {
+         "index": 3,
+         "gained": 3,
+         "lost": 5,
+         "p": 0.7265625,
+         "category": 19,
+         "smallestShift": 0.02930250501237053
+        },
+        {
+         "index": 4,
+         "gained": 2,
+         "lost": 2,
+         "p": 1,
+         "category": 4,
+         "smallestShift": 0.02072
+        },
+        {
+         "index": 5,
+         "gained": 4,
+         "lost": 1,
+         "p": 0.37500000000000133,
+         "category": 21,
+         "smallestShift": 0.02316566424689782
+        },
+        {
+         "index": 6,
+         "gained": 2,
+         "lost": 2,
+         "p": 1,
+         "category": 2,
+         "smallestShift": 0.02072
+        },
+        {
+         "index": 7,
+         "gained": 3,
+         "lost": 3,
+         "p": 1,
+         "category": 25,
+         "smallestShift": 0.025376713735233723
+        },
+        {
+         "index": 8,
+         "gained": 7,
+         "lost": 2,
+         "p": 0.17968749999999997,
+         "category": 17,
+         "smallestShift": 0.031079999999999997
+        },
+        {
+         "index": 9,
+         "gained": 7,
+         "lost": 7,
+         "p": 1,
+         "category": 34,
+         "smallestShift": 0.038763570526978035
+        },
+        {
+         "index": 10,
+         "gained": 1,
+         "lost": 7,
+         "p": 0.07031249999999992,
+         "category": 6,
+         "smallestShift": 0.02930250501237053
+        },
+        {
+         "index": 11,
+         "gained": 0,
+         "lost": 1,
+         "p": 1,
+         "category": 27,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 12,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 13,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 13,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 36,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 14,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 11,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 15,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 30,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 16,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 8,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 17,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 23,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 18,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 10,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 19,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 5,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 20,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 24,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 21,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 16,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 22,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 33,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 23,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 1,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 24,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 20,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 25,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 14,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 26,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 31,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 27,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 9,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 28,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 22,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 29,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 18,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 30,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 29,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 31,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 7,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 32,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 28,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 33,
+         "gained": 0,
+         "lost": 2,
+         "p": 0.5000000000000004,
+         "category": 12,
+         "smallestShift": 0.014651252506185266
+        },
+        {
+         "index": 34,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 35,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 35,
+         "gained": 3,
+         "lost": 0,
+         "p": 0.2500000000000003,
+         "category": 3,
+         "smallestShift": 0.017944046366413568
+        },
+        {
+         "index": 36,
+         "gained": 2,
+         "lost": 0,
+         "p": 0.5000000000000004,
+         "category": 26,
+         "smallestShift": 0.014651252506185266
+        }
+       ],
+       "n": 10000,
+       "top": {
+        "index": 10,
+        "gained": 1,
+        "lost": 7,
+        "p": 0.07031249999999992,
+        "category": 6,
+        "pCorrected": 1,
+        "q": 1
+       },
+       "q": 0.3716387385004573
+      },
+      "q": 1
+     },
+     "reach": {
+      "sameOutcome": 0.9958,
+      "identicalTrials": 0.9428
+     },
+     "metrics": {
+      "rimTime": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.004418093291069439,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "totalTime": {
+       "kind": "linear",
+       "diff": 0.000034357500000581354,
+       "se": 0.005257948933657873,
+       "p": 1,
+       "d": 0.001700000000000007,
+       "paired": {
+        "mean": 0.0000343574999986993,
+        "sd": 0.024285340637350158,
+        "se": 0.00024285340637350157,
+        "z": 0.14147423547297686,
+        "p": 0.887495299722965,
+        "effect": 0.00009242809827995087,
+        "unchanged": 0.9428
+       }
+      },
+      "settleTime": {
+       "kind": "linear",
+       "diff": 0.00022260599999146535,
+       "se": 0.001592221168237771,
+       "p": 1,
+       "d": 0.0018000000000000238,
+       "paired": {
+        "mean": 0.00022260599999157263,
+        "sd": 0.023456169553684226,
+        "se": 0.00023456169553684225,
+        "z": 0.9490296336837668,
+        "p": 0.34260555152919187,
+        "effect": 0.0019779381529489285,
+        "unchanged": 0.9428
+       }
+      },
+      "leaveSpeed": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 1.0165314036189653e-8,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "fretHits": {
+       "kind": "linear",
+       "diff": -0.0010999999999996568,
+       "se": 0.021391656768421162,
+       "p": 1,
+       "d": 0.0020999999999999908,
+       "paired": {
+        "mean": -0.0011,
+        "sd": 0.23044326939626195,
+        "se": 0.0023044326939626195,
+        "z": -0.4773409103602326,
+        "p": 0.6331193441753643,
+        "effect": 0.0007287534959431304,
+        "unchanged": 0.9816
+       }
+      },
+      "deflectorHits": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.01611027479887968,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "leaveAz": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.008150908735323065,
+       "rBarBase": 0.008150908735323065,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "rotorEntryAz": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.007883064070975342,
+       "rBarBase": 0.007883064070975342,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "scatter": {
+       "kind": "circular",
+       "meanShiftDeg": -0.018599432338874067,
+       "rBar": 0.5762955585971926,
+       "rBarBase": 0.5764936303694954,
+       "concentration": {
+        "change": -0.00019807177230279915,
+        "z": -0.019807177230279915
+       },
+       "d": 0.0007000000000000339,
+       "p": 0.9999999999770112,
+       "paired": {
+        "mean": -0.027243243243243422,
+        "sd": 0.9823259318474683,
+        "se": 0.009823259318474683,
+        "z": -2.773340533931221,
+        "p": 0.005548402572823222,
+        "effect": 0.000453030837215535,
+        "unchanged": 0.9958
+       }
+      }
+     },
+     "vsNullP": 0.8782500169505627
+    },
+    {
+     "parameter": "pocket.17.cor",
+     "delta": 9,
+     "unit": "%",
+     "outcome": {
+      "x2": 0.01450494008829094,
+      "df": 36,
+      "p": 1,
+      "largest": {
+       "index": 8,
+       "z": -0.08756822580676982,
+       "ratio": 0.9925650557620819,
+       "p": 1,
+       "category": 17,
+       "q": 1
+      },
+      "paired": {
+       "x2": 2,
+       "df": 1,
+       "p": 0.15729920705028466,
+       "discordant": 2,
+       "perCategory": [
+        {
+         "index": 0,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 0,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 1,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 32,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 2,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 15,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 3,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 19,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 4,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 4,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 5,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 21,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 6,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 2,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 7,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 25,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 8,
+         "gained": 0,
+         "lost": 2,
+         "p": 0.5000000000000004,
+         "category": 17,
+         "smallestShift": 0.014651252506185266
+        },
+        {
+         "index": 9,
+         "gained": 2,
+         "lost": 0,
+         "p": 0.5000000000000004,
+         "category": 34,
+         "smallestShift": 0.014651252506185266
+        },
+        {
+         "index": 10,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 6,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 11,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 27,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 12,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 13,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 13,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 36,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 14,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 11,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 15,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 30,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 16,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 8,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 17,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 23,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 18,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 10,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 19,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 5,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 20,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 24,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 21,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 16,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 22,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 33,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 23,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 1,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 24,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 20,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 25,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 14,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 26,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 31,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 27,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 9,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 28,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 22,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 29,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 18,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 30,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 29,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 31,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 7,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 32,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 28,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 33,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 12,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 34,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 35,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 35,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 3,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 36,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 26,
+         "smallestShift": 0.01036
+        }
+       ],
+       "n": 10000,
+       "top": {
+        "index": 8,
+        "gained": 0,
+        "lost": 2,
+        "p": 0.5000000000000004,
+        "category": 17,
+        "pCorrected": 1,
+        "q": 1
+       },
+       "q": 0.8214686190832747
+      },
+      "q": 1
+     },
+     "reach": {
+      "sameOutcome": 0.9998,
+      "identicalTrials": 0.9727
+     },
+     "metrics": {
+      "rimTime": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.004418093291069439,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "totalTime": {
+       "kind": "linear",
+       "diff": 0.00009296100000533158,
+       "se": 0.005257843777806504,
+       "p": 1,
+       "d": 0.001100000000000101,
+       "paired": {
+        "mean": 0.00009296099999648071,
+        "sd": 0.013102143660155129,
+        "se": 0.0001310214366015513,
+        "z": 0.70950985127101,
+        "p": 0.4780081109334388,
+        "effect": 0.0002500824694521579,
+        "unchanged": 0.9727
+       }
+      },
+      "settleTime": {
+       "kind": "linear",
+       "diff": 0.00009296099999622776,
+       "se": 0.001593114344569721,
+       "p": 1,
+       "d": 0.001100000000000101,
+       "paired": {
+        "mean": 0.00009296099999648071,
+        "sd": 0.013102143660155129,
+        "se": 0.0001310214366015513,
+        "z": 0.70950985127101,
+        "p": 0.4780081109334388,
+        "effect": 0.0008259934980920792,
+        "unchanged": 0.9727
+       }
+      },
+      "leaveSpeed": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 1.0165314036189653e-8,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "fretHits": {
+       "kind": "linear",
+       "diff": 0.001000000000000334,
+       "se": 0.02134457488655337,
+       "p": 1,
+       "d": 0.0005000000000000004,
+       "paired": {
+        "mean": 0.001,
+        "sd": 0.09797938556655043,
+        "se": 0.0009797938556655042,
+        "z": 1.0206228526721788,
+        "p": 0.3074331740514023,
+        "effect": 0.0006625031781301185,
+        "unchanged": 0.9951
+       }
+      },
+      "deflectorHits": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.01611027479887968,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "leaveAz": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.008150908735323065,
+       "rBarBase": 0.008150908735323065,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "rotorEntryAz": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.007883064070975342,
+       "rBarBase": 0.007883064070975342,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "scatter": {
+       "kind": "circular",
+       "meanShiftDeg": 0.0020897492254334793,
+       "rBar": 0.5764674301735838,
+       "rBarBase": 0.5764936303694954,
+       "concentration": {
+        "change": -0.000026200195911596502,
+        "z": -0.0026200195911596502
+       },
+       "d": 0.00010000000000010001,
+       "p": 1,
+       "paired": {
+        "mean": 0.0019459459459459595,
+        "sd": 0.13759227660211243,
+        "se": 0.0013759227660211243,
+        "z": 1.4142842854277504,
+        "p": 0.15727845426696274,
+        "effect": 0.00003235934551539537,
+        "unchanged": 0.9998
+       }
+      }
+     },
+     "vsNullP": 0.8997426247082558
     }
    ]
   }
