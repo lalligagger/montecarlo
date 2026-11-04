@@ -188,12 +188,16 @@ Mean paired change in each metric:
 
 | Parameter | Delta | Reached | Moved outcome | Paired p | q | Most changed category | Gained / lost | Its q | Against null p |
 |---|---|---|---|---|---|---|---|---|---|
-| fret.17.height | 1 mm (10 widths) | 5.3% | 0.9% | 0.2199 | 0.2199 | 25 | 10 / 20 | 1.0000 | 0.8513 |
+| fret.17.height | 1 mm (10 widths) | 5.3% | 0.9% | 0.2199 | 0.3298 | 25 | 10 / 20 | 1.0000 | 0.8513 |
+| fret.17.height | -1 mm (10 widths) | 5.5% | 0.8% | 0.4789 | 0.4789 | 26 | 4 / 0 | 1.0000 | 0.8698 |
+| fret.17.height | 3 mm (30 widths) | 5.4% | 1.3% | 0.0537 | 0.1612 | 25 | 14 / 41 | 0.0394 | 0.8021 |
 
 **Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
 
 | Parameter | Delta | rimTime | totalTime | settleTime | leaveSpeed | fretHits | deflectorHits | leaveAz | rotorEntryAz | scatter |
 |---|---|---|---|---|---|---|---|---|---|---|
 | fret.17.height | 1 | 0 | 0.00022 | -0.0000357 | 0 | 0.005 | 0 | 0 | 0 | -0.00973 |
+| fret.17.height | -1 | 0 | -0.000295 | -0.000244 | 0 | -0.0017 | 0 | 0 | 0 | 0.0175 |
+| fret.17.height | 3 | 0 | 0.000194 | 0.000425 | 0 | 0.006 | 0 | 0 | 0 | 0.0243 |
 
 `*` marks a paired |z| above 3.5.
