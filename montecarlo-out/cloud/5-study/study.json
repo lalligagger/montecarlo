@@ -23577,9 +23577,9 @@
         "pCorrected": 0.7431405075073717,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.0292,
@@ -24077,9 +24077,9 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.0256,
@@ -24577,9 +24577,9 @@
         "pCorrected": 0.9072675852176412,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.0048,
@@ -25077,9 +25077,9 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.0315,
@@ -25577,9 +25577,9 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.2602,
@@ -26077,9 +26077,9 @@
         "pCorrected": 0.4981630819005199,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.2336,
@@ -26575,11 +26575,11 @@
         "p": 0.0025601045330389187,
         "category": 20,
         "pCorrected": 0.09472386772243999,
-        "q": 1
+        "q": 0.6157051401958599
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.2256,
@@ -27077,9 +27077,9 @@
         "pCorrected": 1,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.2228,
@@ -27577,9 +27577,9 @@
         "pCorrected": 0.435921944501374,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.2352,
@@ -28077,9 +28077,9 @@
         "pCorrected": 0.5358277149285875,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.2446,
@@ -28577,9 +28577,9 @@
         "pCorrected": 0.45106755967938245,
         "q": 1
        },
-       "q": 0.746789653712068
+       "q": 0.8090221248547403
       },
-      "q": 0.9627193993566326
+      "q": 1
      },
      "reach": {
       "sameOutcome": 0.0509,
@@ -28747,6 +28747,1005 @@
       }
      },
      "vsNullP": 0.7195256116250801
+    },
+    {
+     "parameter": "ball.comOffset",
+     "delta": -0.06,
+     "unit": "mm",
+     "outcome": {
+      "x2": 0,
+      "df": 36,
+      "p": 1,
+      "largest": {
+       "index": -1,
+       "z": 0,
+       "ratio": 1,
+       "p": 1,
+       "q": 1
+      },
+      "paired": {
+       "x2": 0,
+       "df": 0,
+       "p": 1,
+       "discordant": 0,
+       "perCategory": [
+        {
+         "index": 0,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 0,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 1,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 32,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 2,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 15,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 3,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 19,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 4,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 4,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 5,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 21,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 6,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 2,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 7,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 25,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 8,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 17,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 9,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 34,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 10,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 6,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 11,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 27,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 12,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 13,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 13,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 36,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 14,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 11,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 15,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 30,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 16,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 8,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 17,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 23,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 18,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 10,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 19,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 5,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 20,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 24,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 21,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 16,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 22,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 33,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 23,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 1,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 24,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 20,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 25,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 14,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 26,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 31,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 27,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 9,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 28,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 22,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 29,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 18,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 30,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 29,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 31,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 7,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 32,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 28,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 33,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 12,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 34,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 35,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 35,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 3,
+         "smallestShift": 0.01036
+        },
+        {
+         "index": 36,
+         "gained": 0,
+         "lost": 0,
+         "p": 1,
+         "category": 26,
+         "smallestShift": 0.01036
+        }
+       ],
+       "n": 10000,
+       "top": {
+        "index": 0,
+        "gained": 0,
+        "lost": 0,
+        "p": 1,
+        "category": 0,
+        "pCorrected": 1,
+        "q": 1
+       },
+       "q": 1
+      },
+      "q": 1
+     },
+     "reach": {
+      "sameOutcome": 1,
+      "identicalTrials": 1
+     },
+     "metrics": {
+      "rimTime": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.004418093291069439,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "totalTime": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.005256934132759696,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "settleTime": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.001591619150398358,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "leaveSpeed": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 1.0165314036189653e-8,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "fretHits": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.021346517406371404,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "deflectorHits": {
+       "kind": "linear",
+       "diff": 0,
+       "se": 0.01611027479887968,
+       "p": 1,
+       "d": 0,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "leaveAz": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.008150908735323065,
+       "rBarBase": 0.008150908735323065,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "rotorEntryAz": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.007883064070975342,
+       "rBarBase": 0.007883064070975342,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      },
+      "scatter": {
+       "kind": "circular",
+       "meanShiftDeg": 0,
+       "rBar": 0.5764936303694954,
+       "rBarBase": 0.5764936303694954,
+       "concentration": {
+        "change": 0,
+        "z": 0
+       },
+       "d": 0,
+       "p": 1,
+       "paired": {
+        "mean": 0,
+        "sd": 0,
+        "se": 0,
+        "z": 0,
+        "p": 1,
+        "effect": 0,
+        "unchanged": 1
+       }
+      }
+     },
+     "vsNullP": 0.9057851036655912
+    },
+    {
+     "parameter": "ball.outOfRound",
+     "delta": 0.15000000000000002,
+     "unit": "%",
+     "outcome": {
+      "x2": 35.04423289180677,
+      "df": 36,
+      "p": 0.5138831427421942,
+      "largest": {
+       "index": 24,
+       "z": 3.7048620539197854,
+       "ratio": 1.3783783783783783,
+       "p": 0.007825715516612337,
+       "category": 20,
+       "q": 0.10173430171596037
+      },
+      "paired": {
+       "x2": 35.36675679171881,
+       "df": 36,
+       "p": 0.498518239484283,
+       "discordant": 9895,
+       "perCategory": [
+        {
+         "index": 0,
+         "gained": 271,
+         "lost": 280,
+         "p": 0.7332799246416735,
+         "category": 0,
+         "smallestShift": 0.24318431199401003
+        },
+        {
+         "index": 1,
+         "gained": 298,
+         "lost": 271,
+         "p": 0.27571033194257427,
+         "category": 32,
+         "smallestShift": 0.2471245483556824
+        },
+        {
+         "index": 2,
+         "gained": 269,
+         "lost": 244,
+         "p": 0.28930540080085587,
+         "category": 15,
+         "smallestShift": 0.2346488542482149
+        },
+        {
+         "index": 3,
+         "gained": 265,
+         "lost": 274,
+         "p": 0.730442248741954,
+         "category": 19,
+         "smallestShift": 0.24052162979657363
+        },
+        {
+         "index": 4,
+         "gained": 261,
+         "lost": 255,
+         "p": 0.825809783540844,
+         "category": 4,
+         "smallestShift": 0.23533396184996333
+        },
+        {
+         "index": 5,
+         "gained": 285,
+         "lost": 266,
+         "p": 0.44321369768582153,
+         "category": 21,
+         "smallestShift": 0.24318431199401003
+        },
+        {
+         "index": 6,
+         "gained": 267,
+         "lost": 269,
+         "p": 0.9655527066062112,
+         "category": 2,
+         "smallestShift": 0.23985134062581345
+        },
+        {
+         "index": 7,
+         "gained": 252,
+         "lost": 265,
+         "p": 0.597709112714658,
+         "category": 25,
+         "smallestShift": 0.23556188825869095
+        },
+        {
+         "index": 8,
+         "gained": 273,
+         "lost": 269,
+         "p": 0.8974830684311205,
+         "category": 17,
+         "smallestShift": 0.2411900561797687
+        },
+        {
+         "index": 9,
+         "gained": 281,
+         "lost": 282,
+         "p": 0.9999999999997777,
+         "category": 34,
+         "smallestShift": 0.24581815392684084
+        },
+        {
+         "index": 10,
+         "gained": 245,
+         "lost": 247,
+         "p": 0.964046859479912,
+         "category": 6,
+         "smallestShift": 0.22979591641280311
+        },
+        {
+         "index": 11,
+         "gained": 285,
+         "lost": 288,
+         "p": 0.9334228870633414,
+         "category": 27,
+         "smallestShift": 0.24799165469829826
+        },
+        {
+         "index": 12,
+         "gained": 276,
+         "lost": 264,
+         "p": 0.6359936320434231,
+         "category": 13,
+         "smallestShift": 0.24074464480025304
+        },
+        {
+         "index": 13,
+         "gained": 290,
+         "lost": 273,
+         "p": 0.5001429030988853,
+         "category": 36,
+         "smallestShift": 0.24581815392684084
+        },
+        {
+         "index": 14,
+         "gained": 273,
+         "lost": 269,
+         "p": 0.8974830684311205,
+         "category": 11,
+         "smallestShift": 0.2411900561797687
+        },
+        {
+         "index": 15,
+         "gained": 244,
+         "lost": 258,
+         "p": 0.5618106208046744,
+         "category": 30,
+         "smallestShift": 0.2321194933649477
+        },
+        {
+         "index": 16,
+         "gained": 268,
+         "lost": 261,
+         "p": 0.7942227173448893,
+         "category": 8,
+         "smallestShift": 0.23827999999999996
+        },
+        {
+         "index": 17,
+         "gained": 252,
+         "lost": 255,
+         "p": 0.9292340284423786,
+         "category": 23,
+         "smallestShift": 0.23327260276337636
+        },
+        {
+         "index": 18,
+         "gained": 247,
+         "lost": 280,
+         "p": 0.1632724500509262,
+         "category": 10,
+         "smallestShift": 0.23782913866891922
+        },
+        {
+         "index": 19,
+         "gained": 254,
+         "lost": 284,
+         "p": 0.21115802166303063,
+         "category": 5,
+         "smallestShift": 0.24029840781827913
+        },
+        {
+         "index": 20,
+         "gained": 266,
+         "lost": 264,
+         "p": 0.9653584535825582,
+         "category": 24,
+         "smallestShift": 0.23850511105634611
+        },
+        {
+         "index": 21,
+         "gained": 270,
+         "lost": 255,
+         "p": 0.5412333144249295,
+         "category": 16,
+         "smallestShift": 0.23737742099871248
+        },
+        {
+         "index": 22,
+         "gained": 292,
+         "lost": 270,
+         "p": 0.3757237303876224,
+         "category": 33,
+         "smallestShift": 0.24559974592820735
+        },
+        {
+         "index": 23,
+         "gained": 249,
+         "lost": 273,
+         "p": 0.3140864571134634,
+         "category": 1,
+         "smallestShift": 0.23669822813025027
+        },
+        {
+         "index": 24,
+         "gained": 302,
+         "lost": 218,
+         "p": 0.0002653184638139645,
+         "category": 20,
+         "smallestShift": 0.23624434808054137
+        },
+        {
+         "index": 25,
+         "gained": 307,
+         "lost": 285,
+         "p": 0.3881026060627227,
+         "category": 14,
+         "smallestShift": 0.2520696792555582
+        },
+        {
+         "index": 26,
+         "gained": 268,
+         "lost": 285,
+         "p": 0.4962930812372384,
+         "category": 31,
+         "smallestShift": 0.24362526305783644
+        },
+        {
+         "index": 27,
+         "gained": 244,
+         "lost": 277,
+         "p": 0.1608669568414295,
+         "category": 9,
+         "smallestShift": 0.23647139700183614
+        },
+        {
+         "index": 28,
+         "gained": 265,
+         "lost": 279,
+         "p": 0.577314745916036,
+         "category": 22,
+         "smallestShift": 0.24163464652238925
+        },
+        {
+         "index": 29,
+         "gained": 266,
+         "lost": 268,
+         "p": 0.9654883191418278,
+         "category": 18,
+         "smallestShift": 0.23940343857179663
+        },
+        {
+         "index": 30,
+         "gained": 272,
+         "lost": 246,
+         "p": 0.271997985943694,
+         "category": 29,
+         "smallestShift": 0.2357895943420744
+        },
+        {
+         "index": 31,
+         "gained": 229,
+         "lost": 273,
+         "p": 0.05485279364170199,
+         "category": 7,
+         "smallestShift": 0.2321194933649477
+        },
+        {
+         "index": 32,
+         "gained": 271,
+         "lost": 269,
+         "p": 0.9656804077452681,
+         "category": 28,
+         "smallestShift": 0.24074464480025304
+        },
+        {
+         "index": 33,
+         "gained": 249,
+         "lost": 275,
+         "p": 0.27476139552804907,
+         "category": 12,
+         "smallestShift": 0.23715123950761885
+        },
+        {
+         "index": 34,
+         "gained": 274,
+         "lost": 271,
+         "p": 0.9317386484149295,
+         "category": 35,
+         "smallestShift": 0.2418566352201237
+        },
+        {
+         "index": 35,
+         "gained": 252,
+         "lost": 264,
+         "p": 0.6282525157951524,
+         "category": 3,
+         "smallestShift": 0.23533396184996333
+        },
+        {
+         "index": 36,
+         "gained": 263,
+         "lost": 269,
+         "p": 0.828407045266722,
+         "category": 26,
+         "smallestShift": 0.23895469696157892
+        }
+       ],
+       "n": 10000,
+       "top": {
+        "index": 24,
+        "gained": 302,
+        "lost": 218,
+        "p": 0.0002653184638139645,
+        "category": 20,
+        "pCorrected": 0.009816783161116687,
+        "q": 0.12761818109451692
+       },
+       "q": 0.8090221248547403
+      },
+      "q": 1
+     },
+     "reach": {
+      "sameOutcome": 0.0105,
+      "identicalTrials": 0
+     },
+     "metrics": {
+      "rimTime": {
+       "kind": "linear",
+       "diff": -0.4059243429989854,
+       "se": 0.004519169080574472,
+       "p": 0,
+       "d": 0.429,
+       "paired": {
+        "mean": -0.40592434299896085,
+        "sd": 0.104666276901015,
+        "se": 0.0010466627690101501,
+        "z": -387.8272496334723,
+        "p": 0,
+        "effect": 1.2993471919819086,
+        "unchanged": 0
+       }
+      },
+      "totalTime": {
+       "kind": "linear",
+       "diff": -0.32088715400559487,
+       "se": 0.005304321344296702,
+       "p": 0,
+       "d": 0.31079999999999997,
+       "paired": {
+        "mean": -0.3208871540056425,
+        "sd": 0.2997748336179283,
+        "se": 0.002997748336179283,
+        "z": -107.0427260797424,
+        "p": 0,
+        "effect": 0.8632464355185937,
+        "unchanged": 0
+       }
+      },
+      "settleTime": {
+       "kind": "linear",
+       "diff": -0.001743367499930537,
+       "se": 0.0015967900759747845,
+       "p": 0.4567868252458227,
+       "d": 0.01469999999999999,
+       "paired": {
+        "mean": -0.0017433674999340057,
+        "sd": 0.15687505074951874,
+        "se": 0.0015687505074951874,
+        "z": -1.1113096006054066,
+        "p": 0.2664351260185552,
+        "effect": 0.015490476864330712,
+        "unchanged": 0.0001
+       }
+      },
+      "leaveSpeed": {
+       "kind": "linear",
+       "diff": 0.004666774807321583,
+       "se": 0.000038566337082790435,
+       "p": 0,
+       "d": 0.8866,
+       "paired": {
+        "mean": 0.004666774807323834,
+        "sd": 0.003856630196823433,
+        "se": 0.00003856630196823433,
+        "z": 121.00654118115052,
+        "p": 0,
+        "effect": 6492.486313322314,
+        "unchanged": 0
+       }
+      },
+      "fretHits": {
+       "kind": "linear",
+       "diff": 0.002000000000000224,
+       "se": 0.02151205417544934,
+       "p": 1,
+       "d": 0.007099999999999995,
+       "paired": {
+        "mean": 0.002,
+        "sd": 2.1986994855921127,
+        "se": 0.02198699485592113,
+        "z": 0.09096286296084694,
+        "p": 0.9275220359243839,
+        "effect": 0.001325006356260237,
+        "unchanged": 0.2121
+       }
+      },
+      "deflectorHits": {
+       "kind": "linear",
+       "diff": 0.023399999999999865,
+       "se": 0.016450869494062995,
+       "p": 0.30981034552636855,
+       "d": 0.010199999999999987,
+       "paired": {
+        "mean": 0.0234,
+        "sd": 1.7180650787329728,
+        "se": 0.017180650787329728,
+        "z": 1.3619973008971742,
+        "p": 0.1731987447541013,
+        "effect": 0.0205412991228627,
+        "unchanged": 0.5209
+       }
+      },
+      "leaveAz": {
+       "kind": "circular",
+       "meanShiftDeg": 83.12762982004654,
+       "rBar": 0.007343067149374956,
+       "rBarBase": 0.008150908735323065,
+       "concentration": {
+        "change": -0.0008078415859481087,
+        "z": -0.08078415859481088
+       },
+       "d": 0.01689999999999997,
+       "p": 0.11383953794375101,
+       "paired": {
+        "mean": 67.13203773898847,
+        "sd": 16.864813882587615,
+        "se": 0.16864813882587615,
+        "z": 398.05976043589885,
+        "p": 0,
+        "effect": 0.37777790421663904,
+        "unchanged": 0
+       }
+      },
+      "rotorEntryAz": {
+       "kind": "circular",
+       "meanShiftDeg": 81.0389288059032,
+       "rBar": 0.005681244168339034,
+       "rBarBase": 0.007883064070975342,
+       "concentration": {
+        "change": -0.0022018199026363084,
+        "z": -0.22018199026363083
+       },
+       "d": 0.019100000000000006,
+       "p": 0.051430536663893786,
+       "paired": {
+        "mean": 55.328648893077045,
+        "sd": 25.688530241086948,
+        "se": 0.2568853024108695,
+        "z": 215.38269559923233,
+        "p": 0,
+        "effect": 0.31027977591808265,
+        "unchanged": 0
+       }
+      },
+      "scatter": {
+       "kind": "circular",
+       "meanShiftDeg": -25.646592116989268,
+       "rBar": 0.5401634407272371,
+       "rBarBase": 0.5764936303694954,
+       "concentration": {
+        "change": -0.036330189642258315,
+        "z": -3.6330189642258315
+       },
+       "d": 0.16399999999999998,
+       "p": 1.2337934033281624e-117,
+       "paired": {
+        "mean": -23.550686467759387,
+        "sd": 51.40197857051196,
+        "se": 0.5140197857051195,
+        "z": -45.81669251399174,
+        "p": 0,
+        "effect": 0.3916269113860246,
+        "unchanged": 0
+       }
+      }
+     },
+     "vsNullP": 0.31062590879610724
     }
    ]
   }
