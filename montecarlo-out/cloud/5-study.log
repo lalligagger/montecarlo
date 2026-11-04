@@ -2274,3 +2274,5 @@ plan: 67 cases x 10000 trials, about 1645 min
   sweep ball.comOffset 0.06: 3650/10000
   sweep ball.comOffset 0.06: 3700/10000
   sweep ball.comOffset 0.06: 3750/10000
+  sweep ball.comOffset 0.06: 3800/10000
+  sweep ball.comOffset 0.06: 3850/10000
