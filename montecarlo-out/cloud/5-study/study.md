@@ -188,12 +188,13 @@ Mean paired change in each metric:
 
 | Parameter | Delta | Reached | Moved outcome | Paired p | q | Most changed category | Gained / lost | Its q | Against null p |
 |---|---|---|---|---|---|---|---|---|---|
-| fret.17.height | 1 mm (10 widths) | 5.3% | 0.9% | 0.2199 | 0.3298 | 25 | 10 / 20 | 1.0000 | 0.8513 |
-| fret.17.height | -1 mm (10 widths) | 5.5% | 0.8% | 0.4789 | 0.5747 | 26 | 4 / 0 | 1.0000 | 0.8698 |
-| fret.17.height | 3 mm (30 widths) | 5.4% | 1.3% | 0.0537 | 0.1075 | 25 | 14 / 41 | 0.0394 | 0.8021 |
+| fret.17.height | 1 mm (10 widths) | 5.3% | 0.9% | 0.2199 | 0.3078 | 25 | 10 / 20 | 1.0000 | 0.8513 |
+| fret.17.height | -1 mm (10 widths) | 5.5% | 0.8% | 0.4789 | 0.5587 | 26 | 4 / 0 | 1.0000 | 0.8698 |
+| fret.17.height | 3 mm (30 widths) | 5.4% | 1.3% | 0.0537 | 0.0941 | 25 | 14 / 41 | 0.0307 | 0.8021 |
 | fret.17.height | -3 mm (30 widths) | 5.7% | 1.3% | 0.5874 | 0.5874 | 34 | 33 / 18 | 1.0000 | 0.8130 |
-| fret.17.cor | 30 % (10 widths) | 5.7% | 0.8% | 0.0004 | 0.0011 | 6 | 21 / 4 | 0.0674 | 0.8648 |
-| fret.17.cor | -30 % (10 widths) | 5.7% | 0.8% | 8.2e-6 | 4.9e-5 | 34 | 4 / 28 | 0.0043 | 0.8108 |
+| fret.17.cor | 30 % (10 widths) | 5.7% | 0.8% | 0.0004 | 0.0008 | 6 | 21 / 4 | 0.0590 | 0.8648 |
+| fret.17.cor | -30 % (10 widths) | 5.7% | 0.8% | 8.2e-6 | 2.9e-5 | 34 | 4 / 28 | 0.0025 | 0.8108 |
+| fret.17.cor | 90 % (30 widths) | 5.7% | 1.6% | 1.1e-12 | 7.9e-12 | 17 | 11 / 58 | 2.0e-6 | 0.1878 |
 
 **Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
 
@@ -205,5 +206,6 @@ Mean paired change in each metric:
 | fret.17.height | -3 | 0 | 0.000247 | -0.00419 * | 0 | -0.0019 | 0.0001 | 0 | 0 | 0.0234 |
 | fret.17.cor | 30 | 0 | 0.000584 | -0.000125 | 0 | 0.0164 * | 0.0001 | 0 | 0 | 0.0418 |
 | fret.17.cor | -30 | 0 | -0.000757 | -0.000256 | 0 | -0.0088 | 0.0001 | 0 | 0 | -0.0438 |
+| fret.17.cor | 90 | 0.000353 | 0.00285 * | 0.000259 | -0.0000261 | 0.0408 * | 0.0017 * | 0.00591 | 0 | 0.0754 |
 
 `*` marks a paired |z| above 3.5.
