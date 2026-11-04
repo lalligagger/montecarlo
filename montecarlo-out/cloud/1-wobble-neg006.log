@@ -31,3 +31,4 @@ level rotor 90000 / 100000
 level rotor 93000 / 100000
 level rotor 96000 / 100000
 level rotor 99000 / 100000
+wobble -0.06 3000 / 100000
