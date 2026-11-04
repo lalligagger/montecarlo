@@ -10077,3 +10077,464 @@ plan: 67 cases x 10000 trials, about 1485 min
   pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 2650/10000
   pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 2750/10000
   pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 2800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 2900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 2950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 3950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 4950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 5950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 6950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 7950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 8950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 9950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos 0.06: 10000/10000
+  solo spindle.tiltX 0.09: 50/10000
+  solo spindle.tiltX 0.09: 200/10000
+  solo spindle.tiltX 0.09: 300/10000
+  solo spindle.tiltX 0.09: 350/10000
+  solo spindle.tiltX 0.09: 500/10000
+  solo spindle.tiltX 0.09: 650/10000
+  solo spindle.tiltX 0.09: 800/10000
+  solo spindle.tiltX 0.09: 950/10000
+  solo spindle.tiltX 0.09: 1100/10000
+  solo spindle.tiltX 0.09: 1250/10000
+  solo spindle.tiltX 0.09: 1400/10000
+  solo spindle.tiltX 0.09: 1500/10000
+  solo spindle.tiltX 0.09: 1550/10000
+  solo spindle.tiltX 0.09: 1700/10000
+  solo spindle.tiltX 0.09: 1800/10000
+  solo spindle.tiltX 0.09: 1850/10000
+  solo spindle.tiltX 0.09: 1950/10000
+  solo spindle.tiltX 0.09: 2000/10000
+  solo spindle.tiltX 0.09: 2100/10000
+  solo spindle.tiltX 0.09: 2150/10000
+  solo spindle.tiltX 0.09: 2300/10000
+  solo spindle.tiltX 0.09: 2450/10000
+  solo spindle.tiltX 0.09: 2500/10000
+  solo spindle.tiltX 0.09: 2600/10000
+  solo spindle.tiltX 0.09: 2650/10000
+  solo spindle.tiltX 0.09: 2750/10000
+  solo spindle.tiltX 0.09: 2800/10000
+  solo spindle.tiltX 0.09: 2900/10000
+  solo spindle.tiltX 0.09: 2950/10000
+  solo spindle.tiltX 0.09: 3050/10000
+  solo spindle.tiltX 0.09: 3150/10000
+  solo spindle.tiltX 0.09: 3200/10000
+  solo spindle.tiltX 0.09: 3300/10000
+  solo spindle.tiltX 0.09: 3350/10000
+  solo spindle.tiltX 0.09: 3400/10000
+  solo spindle.tiltX 0.09: 3500/10000
+  solo spindle.tiltX 0.09: 3600/10000
+  solo spindle.tiltX 0.09: 3650/10000
+  solo spindle.tiltX 0.09: 3700/10000
+  solo spindle.tiltX 0.09: 3750/10000
+  solo spindle.tiltX 0.09: 3800/10000
+  solo spindle.tiltX 0.09: 3850/10000
+  solo spindle.tiltX 0.09: 3900/10000
+  solo spindle.tiltX 0.09: 3950/10000
+  solo spindle.tiltX 0.09: 4000/10000
+  solo spindle.tiltX 0.09: 4050/10000
+  solo spindle.tiltX 0.09: 4100/10000
+  solo spindle.tiltX 0.09: 4150/10000
+  solo spindle.tiltX 0.09: 4200/10000
+  solo spindle.tiltX 0.09: 4250/10000
+  solo spindle.tiltX 0.09: 4300/10000
+  solo spindle.tiltX 0.09: 4350/10000
+  solo spindle.tiltX 0.09: 4400/10000
+  solo spindle.tiltX 0.09: 4450/10000
+  solo spindle.tiltX 0.09: 4550/10000
+  solo spindle.tiltX 0.09: 4600/10000
+  solo spindle.tiltX 0.09: 4700/10000
+  solo spindle.tiltX 0.09: 4750/10000
+  solo spindle.tiltX 0.09: 4850/10000
+  solo spindle.tiltX 0.09: 4900/10000
+  solo spindle.tiltX 0.09: 4950/10000
+  solo spindle.tiltX 0.09: 5000/10000
+  solo spindle.tiltX 0.09: 5050/10000
+  solo spindle.tiltX 0.09: 5150/10000
+  solo spindle.tiltX 0.09: 5200/10000
+  solo spindle.tiltX 0.09: 5300/10000
+  solo spindle.tiltX 0.09: 5350/10000
+  solo spindle.tiltX 0.09: 5400/10000
+  solo spindle.tiltX 0.09: 5450/10000
+  solo spindle.tiltX 0.09: 5500/10000
+  solo spindle.tiltX 0.09: 5550/10000
+  solo spindle.tiltX 0.09: 5600/10000
+  solo spindle.tiltX 0.09: 5650/10000
+  solo spindle.tiltX 0.09: 5750/10000
+  solo spindle.tiltX 0.09: 5800/10000
+  solo spindle.tiltX 0.09: 5850/10000
+  solo spindle.tiltX 0.09: 5900/10000
+  solo spindle.tiltX 0.09: 5950/10000
+  solo spindle.tiltX 0.09: 6000/10000
+  solo spindle.tiltX 0.09: 6050/10000
+  solo spindle.tiltX 0.09: 6100/10000
+  solo spindle.tiltX 0.09: 6150/10000
+  solo spindle.tiltX 0.09: 6200/10000
+  solo spindle.tiltX 0.09: 6250/10000
+  solo spindle.tiltX 0.09: 6300/10000
+  solo spindle.tiltX 0.09: 6350/10000
+  solo spindle.tiltX 0.09: 6400/10000
+  solo spindle.tiltX 0.09: 6450/10000
+  solo spindle.tiltX 0.09: 6500/10000
+  solo spindle.tiltX 0.09: 6550/10000
+  solo spindle.tiltX 0.09: 6600/10000
+  solo spindle.tiltX 0.09: 6650/10000
+  solo spindle.tiltX 0.09: 6700/10000
+  solo spindle.tiltX 0.09: 6800/10000
+  solo spindle.tiltX 0.09: 6850/10000
+  solo spindle.tiltX 0.09: 6950/10000
+  solo spindle.tiltX 0.09: 7000/10000
+  solo spindle.tiltX 0.09: 7050/10000
+  solo spindle.tiltX 0.09: 7100/10000
+  solo spindle.tiltX 0.09: 7150/10000
+  solo spindle.tiltX 0.09: 7200/10000
+  solo spindle.tiltX 0.09: 7250/10000
+  solo spindle.tiltX 0.09: 7300/10000
+  solo spindle.tiltX 0.09: 7350/10000
+  solo spindle.tiltX 0.09: 7400/10000
+  solo spindle.tiltX 0.09: 7450/10000
+  solo spindle.tiltX 0.09: 7500/10000
+  solo spindle.tiltX 0.09: 7550/10000
+  solo spindle.tiltX 0.09: 7600/10000
+  solo spindle.tiltX 0.09: 7650/10000
+  solo spindle.tiltX 0.09: 7700/10000
+  solo spindle.tiltX 0.09: 7750/10000
+  solo spindle.tiltX 0.09: 7800/10000
+  solo spindle.tiltX 0.09: 7850/10000
+  solo spindle.tiltX 0.09: 7900/10000
+  solo spindle.tiltX 0.09: 7950/10000
+  solo spindle.tiltX 0.09: 8000/10000
+  solo spindle.tiltX 0.09: 8050/10000
+  solo spindle.tiltX 0.09: 8100/10000
+  solo spindle.tiltX 0.09: 8150/10000
+  solo spindle.tiltX 0.09: 8200/10000
+  solo spindle.tiltX 0.09: 8250/10000
+  solo spindle.tiltX 0.09: 8300/10000
+  solo spindle.tiltX 0.09: 8350/10000
+  solo spindle.tiltX 0.09: 8400/10000
+  solo spindle.tiltX 0.09: 8450/10000
+  solo spindle.tiltX 0.09: 8500/10000
+  solo spindle.tiltX 0.09: 8550/10000
+  solo spindle.tiltX 0.09: 8600/10000
+  solo spindle.tiltX 0.09: 8650/10000
+  solo spindle.tiltX 0.09: 8700/10000
+  solo spindle.tiltX 0.09: 8750/10000
+  solo spindle.tiltX 0.09: 8800/10000
+  solo spindle.tiltX 0.09: 8850/10000
+  solo spindle.tiltX 0.09: 8900/10000
+  solo spindle.tiltX 0.09: 8950/10000
+  solo spindle.tiltX 0.09: 9000/10000
+  solo spindle.tiltX 0.09: 9050/10000
+  solo spindle.tiltX 0.09: 9100/10000
+  solo spindle.tiltX 0.09: 9150/10000
+  solo spindle.tiltX 0.09: 9200/10000
+  solo spindle.tiltX 0.09: 9250/10000
+  solo spindle.tiltX 0.09: 9300/10000
+  solo spindle.tiltX 0.09: 9350/10000
+  solo spindle.tiltX 0.09: 9400/10000
+  solo spindle.tiltX 0.09: 9450/10000
+  solo spindle.tiltX 0.09: 9500/10000
+  solo spindle.tiltX 0.09: 9550/10000
+  solo spindle.tiltX 0.09: 9600/10000
+  solo spindle.tiltX 0.09: 9650/10000
+  solo spindle.tiltX 0.09: 9700/10000
+  solo spindle.tiltX 0.09: 9750/10000
+  solo spindle.tiltX 0.09: 9800/10000
+  solo spindle.tiltX 0.09: 9850/10000
+  solo spindle.tiltX 0.09: 9900/10000
+  solo spindle.tiltX 0.09: 9950/10000
+  solo spindle.tiltX 0.09: 10000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 50/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 1950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 2900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 3950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 4950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 5950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 6950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 7950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8050/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8200/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8700/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8850/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 8950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9000/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9100/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9150/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9250/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9300/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9350/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9400/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9450/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9500/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9550/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9600/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9650/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9750/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9800/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9900/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 9950/10000
+  pair spindle.tiltX 0.09 rotor.wobbleCos -0.06: 10000/10000
+  solo spindle.tiltX 0.09: 50/10000
+  solo spindle.tiltX 0.09: 200/10000
+  solo spindle.tiltX 0.09: 350/10000
+  solo spindle.tiltX 0.09: 500/10000
+  solo spindle.tiltX 0.09: 600/10000
+  solo spindle.tiltX 0.09: 650/10000
+  solo spindle.tiltX 0.09: 750/10000
+  solo spindle.tiltX 0.09: 800/10000
+  solo spindle.tiltX 0.09: 900/10000
+  solo spindle.tiltX 0.09: 950/10000
+  solo spindle.tiltX 0.09: 1050/10000
