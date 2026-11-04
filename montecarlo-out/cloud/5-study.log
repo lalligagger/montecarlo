@@ -6670,3 +6670,5 @@ plan: 67 cases x 10000 trials, about 1485 min
   dose fret.17.height -3: 6900/10000
   dose fret.17.height -3: 6950/10000
   dose fret.17.height -3: 7000/10000
+  dose fret.17.height -3: 7050/10000
+  dose fret.17.height -3: 7100/10000
