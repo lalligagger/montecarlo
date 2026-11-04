@@ -8383,3 +8383,498 @@ plan: 67 cases x 10000 trials, about 1540 min
   dose pocket.17.depth -3: 4650/10000
   dose pocket.17.depth -3: 4700/10000
   dose pocket.17.depth -3: 4800/10000
+  dose pocket.17.depth -3: 4850/10000
+  dose pocket.17.depth -3: 4950/10000
+  dose pocket.17.depth -3: 5000/10000
+  dose pocket.17.depth -3: 5100/10000
+  dose pocket.17.depth -3: 5150/10000
+  dose pocket.17.depth -3: 5250/10000
+  dose pocket.17.depth -3: 5300/10000
+  dose pocket.17.depth -3: 5400/10000
+  dose pocket.17.depth -3: 5450/10000
+  dose pocket.17.depth -3: 5550/10000
+  dose pocket.17.depth -3: 5600/10000
+  dose pocket.17.depth -3: 5700/10000
+  dose pocket.17.depth -3: 5750/10000
+  dose pocket.17.depth -3: 5850/10000
+  dose pocket.17.depth -3: 5900/10000
+  dose pocket.17.depth -3: 6000/10000
+  dose pocket.17.depth -3: 6050/10000
+  dose pocket.17.depth -3: 6150/10000
+  dose pocket.17.depth -3: 6200/10000
+  dose pocket.17.depth -3: 6300/10000
+  dose pocket.17.depth -3: 6350/10000
+  dose pocket.17.depth -3: 6450/10000
+  dose pocket.17.depth -3: 6500/10000
+  dose pocket.17.depth -3: 6600/10000
+  dose pocket.17.depth -3: 6650/10000
+  dose pocket.17.depth -3: 6750/10000
+  dose pocket.17.depth -3: 6800/10000
+  dose pocket.17.depth -3: 6900/10000
+  dose pocket.17.depth -3: 6950/10000
+  dose pocket.17.depth -3: 7050/10000
+  dose pocket.17.depth -3: 7100/10000
+  dose pocket.17.depth -3: 7200/10000
+  dose pocket.17.depth -3: 7250/10000
+  dose pocket.17.depth -3: 7350/10000
+  dose pocket.17.depth -3: 7400/10000
+  dose pocket.17.depth -3: 7500/10000
+  dose pocket.17.depth -3: 7550/10000
+  dose pocket.17.depth -3: 7650/10000
+  dose pocket.17.depth -3: 7700/10000
+  dose pocket.17.depth -3: 7800/10000
+  dose pocket.17.depth -3: 7850/10000
+  dose pocket.17.depth -3: 7950/10000
+  dose pocket.17.depth -3: 8000/10000
+  dose pocket.17.depth -3: 8100/10000
+  dose pocket.17.depth -3: 8150/10000
+  dose pocket.17.depth -3: 8250/10000
+  dose pocket.17.depth -3: 8300/10000
+  dose pocket.17.depth -3: 8350/10000
+  dose pocket.17.depth -3: 8400/10000
+  dose pocket.17.depth -3: 8450/10000
+  dose pocket.17.depth -3: 8550/10000
+  dose pocket.17.depth -3: 8600/10000
+  dose pocket.17.depth -3: 8650/10000
+  dose pocket.17.depth -3: 8700/10000
+  dose pocket.17.depth -3: 8750/10000
+  dose pocket.17.depth -3: 8800/10000
+  dose pocket.17.depth -3: 8850/10000
+  dose pocket.17.depth -3: 8900/10000
+  dose pocket.17.depth -3: 8950/10000
+  dose pocket.17.depth -3: 9000/10000
+  dose pocket.17.depth -3: 9050/10000
+  dose pocket.17.depth -3: 9100/10000
+  dose pocket.17.depth -3: 9150/10000
+  dose pocket.17.depth -3: 9200/10000
+  dose pocket.17.depth -3: 9300/10000
+  dose pocket.17.depth -3: 9350/10000
+  dose pocket.17.depth -3: 9400/10000
+  dose pocket.17.depth -3: 9450/10000
+  dose pocket.17.depth -3: 9500/10000
+  dose pocket.17.depth -3: 9550/10000
+  dose pocket.17.depth -3: 9600/10000
+  dose pocket.17.depth -3: 9650/10000
+  dose pocket.17.depth -3: 9700/10000
+  dose pocket.17.depth -3: 9750/10000
+  dose pocket.17.depth -3: 9800/10000
+  dose pocket.17.depth -3: 9850/10000
+  dose pocket.17.depth -3: 9900/10000
+  dose pocket.17.depth -3: 9950/10000
+  dose pocket.17.depth -3: 10000/10000
+  solo spindle.tiltX 0.09: 50/10000
+  solo spindle.tiltX 0.09: 200/10000
+  solo spindle.tiltX 0.09: 350/10000
+  solo spindle.tiltX 0.09: 500/10000
+  solo spindle.tiltX 0.09: 650/10000
+  solo spindle.tiltX 0.09: 800/10000
+  solo spindle.tiltX 0.09: 950/10000
+  solo spindle.tiltX 0.09: 1100/10000
+  solo spindle.tiltX 0.09: 1250/10000
+  solo spindle.tiltX 0.09: 1400/10000
+  solo spindle.tiltX 0.09: 1500/10000
+  solo spindle.tiltX 0.09: 1550/10000
+  solo spindle.tiltX 0.09: 1650/10000
+  solo spindle.tiltX 0.09: 1700/10000
+  solo spindle.tiltX 0.09: 1750/10000
+  solo spindle.tiltX 0.09: 1850/10000
+  solo spindle.tiltX 0.09: 1900/10000
+  solo spindle.tiltX 0.09: 2000/10000
+  solo spindle.tiltX 0.09: 2050/10000
+  solo spindle.tiltX 0.09: 2150/10000
+  solo spindle.tiltX 0.09: 2200/10000
+  solo spindle.tiltX 0.09: 2300/10000
+  solo spindle.tiltX 0.09: 2350/10000
+  solo spindle.tiltX 0.09: 2450/10000
+  solo spindle.tiltX 0.09: 2500/10000
+  solo spindle.tiltX 0.09: 2600/10000
+  solo spindle.tiltX 0.09: 2650/10000
+  solo spindle.tiltX 0.09: 2750/10000
+  solo spindle.tiltX 0.09: 2800/10000
+  solo spindle.tiltX 0.09: 2900/10000
+  solo spindle.tiltX 0.09: 2950/10000
+  solo spindle.tiltX 0.09: 3050/10000
+  solo spindle.tiltX 0.09: 3100/10000
+  solo spindle.tiltX 0.09: 3200/10000
+  solo spindle.tiltX 0.09: 3250/10000
+  solo spindle.tiltX 0.09: 3350/10000
+  solo spindle.tiltX 0.09: 3400/10000
+  solo spindle.tiltX 0.09: 3500/10000
+  solo spindle.tiltX 0.09: 3550/10000
+  solo spindle.tiltX 0.09: 3650/10000
+  solo spindle.tiltX 0.09: 3700/10000
+  solo spindle.tiltX 0.09: 3800/10000
+  solo spindle.tiltX 0.09: 3850/10000
+  solo spindle.tiltX 0.09: 3950/10000
+  solo spindle.tiltX 0.09: 4050/10000
+  solo spindle.tiltX 0.09: 4100/10000
+  solo spindle.tiltX 0.09: 4200/10000
+  solo spindle.tiltX 0.09: 4250/10000
+  solo spindle.tiltX 0.09: 4350/10000
+  solo spindle.tiltX 0.09: 4400/10000
+  solo spindle.tiltX 0.09: 4500/10000
+  solo spindle.tiltX 0.09: 4550/10000
+  solo spindle.tiltX 0.09: 4650/10000
+  solo spindle.tiltX 0.09: 4700/10000
+  solo spindle.tiltX 0.09: 4800/10000
+  solo spindle.tiltX 0.09: 4850/10000
+  solo spindle.tiltX 0.09: 4950/10000
+  solo spindle.tiltX 0.09: 5000/10000
+  solo spindle.tiltX 0.09: 5100/10000
+  solo spindle.tiltX 0.09: 5150/10000
+  solo spindle.tiltX 0.09: 5250/10000
+  solo spindle.tiltX 0.09: 5300/10000
+  solo spindle.tiltX 0.09: 5400/10000
+  solo spindle.tiltX 0.09: 5450/10000
+  solo spindle.tiltX 0.09: 5600/10000
+  solo spindle.tiltX 0.09: 5750/10000
+  solo spindle.tiltX 0.09: 5900/10000
+  solo spindle.tiltX 0.09: 6050/10000
+  solo spindle.tiltX 0.09: 6150/10000
+  solo spindle.tiltX 0.09: 6200/10000
+  solo spindle.tiltX 0.09: 6300/10000
+  solo spindle.tiltX 0.09: 6350/10000
+  solo spindle.tiltX 0.09: 6500/10000
+  solo spindle.tiltX 0.09: 6650/10000
+  solo spindle.tiltX 0.09: 6800/10000
+  solo spindle.tiltX 0.09: 6950/10000
+  solo spindle.tiltX 0.09: 7100/10000
+  solo spindle.tiltX 0.09: 7250/10000
+  solo spindle.tiltX 0.09: 7400/10000
+  solo spindle.tiltX 0.09: 7500/10000
+  solo spindle.tiltX 0.09: 7550/10000
+  solo spindle.tiltX 0.09: 7700/10000
+  solo spindle.tiltX 0.09: 7850/10000
+  solo spindle.tiltX 0.09: 8000/10000
+  solo spindle.tiltX 0.09: 8150/10000
+  solo spindle.tiltX 0.09: 8250/10000
+  solo spindle.tiltX 0.09: 8300/10000
+  solo spindle.tiltX 0.09: 8350/10000
+  solo spindle.tiltX 0.09: 8450/10000
+  solo spindle.tiltX 0.09: 8500/10000
+  solo spindle.tiltX 0.09: 8600/10000
+  solo spindle.tiltX 0.09: 8650/10000
+  solo spindle.tiltX 0.09: 8750/10000
+  solo spindle.tiltX 0.09: 8800/10000
+  solo spindle.tiltX 0.09: 8900/10000
+  solo spindle.tiltX 0.09: 8950/10000
+  solo spindle.tiltX 0.09: 9050/10000
+  solo spindle.tiltX 0.09: 9100/10000
+  solo spindle.tiltX 0.09: 9200/10000
+  solo spindle.tiltX 0.09: 9250/10000
+  solo spindle.tiltX 0.09: 9350/10000
+  solo spindle.tiltX 0.09: 9400/10000
+  solo spindle.tiltX 0.09: 9500/10000
+  solo spindle.tiltX 0.09: 9550/10000
+  solo spindle.tiltX 0.09: 9650/10000
+  solo spindle.tiltX 0.09: 9700/10000
+  solo spindle.tiltX 0.09: 9800/10000
+  solo spindle.tiltX 0.09: 9850/10000
+  solo spindle.tiltX 0.09: 9950/10000
+  solo spindle.tiltX 0.09: 10000/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 50/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 950/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 1100/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 1250/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 1400/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 1550/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 1700/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 1850/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 2000/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 2150/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 2300/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 2450/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 2600/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 2750/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 2900/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 3050/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 3200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 3350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 3500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 3650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 3800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 3950/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4100/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4250/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4400/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4550/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4700/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4850/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 4900/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5000/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5050/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5150/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5300/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5450/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5600/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5750/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5850/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 5900/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6000/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6050/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6150/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6250/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6300/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6400/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6450/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6550/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6600/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6700/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6750/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6850/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6900/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 6950/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7000/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7050/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7100/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7150/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7250/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7300/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7400/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7450/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7550/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7600/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7700/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7750/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7850/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7900/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 7950/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8000/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8050/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8100/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8150/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8250/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8300/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8400/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8450/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8550/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8600/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8700/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8750/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8850/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8900/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 8950/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9000/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9050/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9100/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9150/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9250/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9300/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9400/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9450/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9550/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9600/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9700/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9750/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9850/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9900/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 9950/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX 0.09: 10000/10000
+  solo spindle.tiltX -0.09: 50/10000
+  solo spindle.tiltX -0.09: 200/10000
+  solo spindle.tiltX -0.09: 350/10000
+  solo spindle.tiltX -0.09: 500/10000
+  solo spindle.tiltX -0.09: 650/10000
+  solo spindle.tiltX -0.09: 800/10000
+  solo spindle.tiltX -0.09: 950/10000
+  solo spindle.tiltX -0.09: 1100/10000
+  solo spindle.tiltX -0.09: 1250/10000
+  solo spindle.tiltX -0.09: 1400/10000
+  solo spindle.tiltX -0.09: 1550/10000
+  solo spindle.tiltX -0.09: 1700/10000
+  solo spindle.tiltX -0.09: 1800/10000
+  solo spindle.tiltX -0.09: 1850/10000
+  solo spindle.tiltX -0.09: 1950/10000
+  solo spindle.tiltX -0.09: 2000/10000
+  solo spindle.tiltX -0.09: 2100/10000
+  solo spindle.tiltX -0.09: 2150/10000
+  solo spindle.tiltX -0.09: 2250/10000
+  solo spindle.tiltX -0.09: 2300/10000
+  solo spindle.tiltX -0.09: 2400/10000
+  solo spindle.tiltX -0.09: 2450/10000
+  solo spindle.tiltX -0.09: 2550/10000
+  solo spindle.tiltX -0.09: 2600/10000
+  solo spindle.tiltX -0.09: 2700/10000
+  solo spindle.tiltX -0.09: 2750/10000
+  solo spindle.tiltX -0.09: 2850/10000
+  solo spindle.tiltX -0.09: 2900/10000
+  solo spindle.tiltX -0.09: 3000/10000
+  solo spindle.tiltX -0.09: 3050/10000
+  solo spindle.tiltX -0.09: 3150/10000
+  solo spindle.tiltX -0.09: 3200/10000
+  solo spindle.tiltX -0.09: 3300/10000
+  solo spindle.tiltX -0.09: 3350/10000
+  solo spindle.tiltX -0.09: 3450/10000
+  solo spindle.tiltX -0.09: 3500/10000
+  solo spindle.tiltX -0.09: 3600/10000
+  solo spindle.tiltX -0.09: 3650/10000
+  solo spindle.tiltX -0.09: 3750/10000
+  solo spindle.tiltX -0.09: 3800/10000
+  solo spindle.tiltX -0.09: 3900/10000
+  solo spindle.tiltX -0.09: 3950/10000
+  solo spindle.tiltX -0.09: 4050/10000
+  solo spindle.tiltX -0.09: 4100/10000
+  solo spindle.tiltX -0.09: 4200/10000
+  solo spindle.tiltX -0.09: 4250/10000
+  solo spindle.tiltX -0.09: 4300/10000
+  solo spindle.tiltX -0.09: 4350/10000
+  solo spindle.tiltX -0.09: 4400/10000
+  solo spindle.tiltX -0.09: 4450/10000
+  solo spindle.tiltX -0.09: 4500/10000
+  solo spindle.tiltX -0.09: 4550/10000
+  solo spindle.tiltX -0.09: 4600/10000
+  solo spindle.tiltX -0.09: 4650/10000
+  solo spindle.tiltX -0.09: 4700/10000
+  solo spindle.tiltX -0.09: 4750/10000
+  solo spindle.tiltX -0.09: 4800/10000
+  solo spindle.tiltX -0.09: 4850/10000
+  solo spindle.tiltX -0.09: 4900/10000
+  solo spindle.tiltX -0.09: 4950/10000
+  solo spindle.tiltX -0.09: 5000/10000
+  solo spindle.tiltX -0.09: 5050/10000
+  solo spindle.tiltX -0.09: 5100/10000
+  solo spindle.tiltX -0.09: 5150/10000
+  solo spindle.tiltX -0.09: 5200/10000
+  solo spindle.tiltX -0.09: 5250/10000
+  solo spindle.tiltX -0.09: 5300/10000
+  solo spindle.tiltX -0.09: 5350/10000
+  solo spindle.tiltX -0.09: 5400/10000
+  solo spindle.tiltX -0.09: 5450/10000
+  solo spindle.tiltX -0.09: 5500/10000
+  solo spindle.tiltX -0.09: 5550/10000
+  solo spindle.tiltX -0.09: 5600/10000
+  solo spindle.tiltX -0.09: 5650/10000
+  solo spindle.tiltX -0.09: 5700/10000
+  solo spindle.tiltX -0.09: 5750/10000
+  solo spindle.tiltX -0.09: 5800/10000
+  solo spindle.tiltX -0.09: 5850/10000
+  solo spindle.tiltX -0.09: 5900/10000
+  solo spindle.tiltX -0.09: 5950/10000
+  solo spindle.tiltX -0.09: 6000/10000
+  solo spindle.tiltX -0.09: 6050/10000
+  solo spindle.tiltX -0.09: 6100/10000
+  solo spindle.tiltX -0.09: 6150/10000
+  solo spindle.tiltX -0.09: 6200/10000
+  solo spindle.tiltX -0.09: 6250/10000
+  solo spindle.tiltX -0.09: 6300/10000
+  solo spindle.tiltX -0.09: 6350/10000
+  solo spindle.tiltX -0.09: 6400/10000
+  solo spindle.tiltX -0.09: 6450/10000
+  solo spindle.tiltX -0.09: 6500/10000
+  solo spindle.tiltX -0.09: 6550/10000
+  solo spindle.tiltX -0.09: 6600/10000
+  solo spindle.tiltX -0.09: 6650/10000
+  solo spindle.tiltX -0.09: 6700/10000
+  solo spindle.tiltX -0.09: 6750/10000
+  solo spindle.tiltX -0.09: 6800/10000
+  solo spindle.tiltX -0.09: 6850/10000
+  solo spindle.tiltX -0.09: 6900/10000
+  solo spindle.tiltX -0.09: 6950/10000
+  solo spindle.tiltX -0.09: 7000/10000
+  solo spindle.tiltX -0.09: 7050/10000
+  solo spindle.tiltX -0.09: 7100/10000
+  solo spindle.tiltX -0.09: 7150/10000
+  solo spindle.tiltX -0.09: 7200/10000
+  solo spindle.tiltX -0.09: 7250/10000
+  solo spindle.tiltX -0.09: 7300/10000
+  solo spindle.tiltX -0.09: 7350/10000
+  solo spindle.tiltX -0.09: 7400/10000
+  solo spindle.tiltX -0.09: 7450/10000
+  solo spindle.tiltX -0.09: 7500/10000
+  solo spindle.tiltX -0.09: 7550/10000
+  solo spindle.tiltX -0.09: 7600/10000
+  solo spindle.tiltX -0.09: 7650/10000
+  solo spindle.tiltX -0.09: 7700/10000
+  solo spindle.tiltX -0.09: 7750/10000
+  solo spindle.tiltX -0.09: 7800/10000
+  solo spindle.tiltX -0.09: 7850/10000
+  solo spindle.tiltX -0.09: 7900/10000
+  solo spindle.tiltX -0.09: 7950/10000
+  solo spindle.tiltX -0.09: 8000/10000
+  solo spindle.tiltX -0.09: 8050/10000
+  solo spindle.tiltX -0.09: 8100/10000
+  solo spindle.tiltX -0.09: 8150/10000
+  solo spindle.tiltX -0.09: 8200/10000
+  solo spindle.tiltX -0.09: 8250/10000
+  solo spindle.tiltX -0.09: 8300/10000
+  solo spindle.tiltX -0.09: 8350/10000
+  solo spindle.tiltX -0.09: 8400/10000
+  solo spindle.tiltX -0.09: 8450/10000
+  solo spindle.tiltX -0.09: 8500/10000
+  solo spindle.tiltX -0.09: 8550/10000
+  solo spindle.tiltX -0.09: 8600/10000
+  solo spindle.tiltX -0.09: 8650/10000
+  solo spindle.tiltX -0.09: 8700/10000
+  solo spindle.tiltX -0.09: 8750/10000
+  solo spindle.tiltX -0.09: 8800/10000
+  solo spindle.tiltX -0.09: 8850/10000
+  solo spindle.tiltX -0.09: 8900/10000
+  solo spindle.tiltX -0.09: 8950/10000
+  solo spindle.tiltX -0.09: 9000/10000
+  solo spindle.tiltX -0.09: 9050/10000
+  solo spindle.tiltX -0.09: 9100/10000
+  solo spindle.tiltX -0.09: 9150/10000
+  solo spindle.tiltX -0.09: 9200/10000
+  solo spindle.tiltX -0.09: 9250/10000
+  solo spindle.tiltX -0.09: 9300/10000
+  solo spindle.tiltX -0.09: 9350/10000
+  solo spindle.tiltX -0.09: 9400/10000
+  solo spindle.tiltX -0.09: 9450/10000
+  solo spindle.tiltX -0.09: 9500/10000
+  solo spindle.tiltX -0.09: 9550/10000
+  solo spindle.tiltX -0.09: 9600/10000
+  solo spindle.tiltX -0.09: 9650/10000
+  solo spindle.tiltX -0.09: 9700/10000
+  solo spindle.tiltX -0.09: 9750/10000
+  solo spindle.tiltX -0.09: 9800/10000
+  solo spindle.tiltX -0.09: 9850/10000
+  solo spindle.tiltX -0.09: 9900/10000
+  solo spindle.tiltX -0.09: 9950/10000
+  solo spindle.tiltX -0.09: 10000/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 50/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 200/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 350/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 500/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 650/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 800/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 950/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 1050/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 1100/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 1250/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 1400/10000
+  pair table.tiltX 0.15000000000000002 spindle.tiltX -0.09: 1550/10000

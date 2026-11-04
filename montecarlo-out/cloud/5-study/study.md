@@ -188,21 +188,22 @@ Mean paired change in each metric:
 
 | Parameter | Delta | Reached | Moved outcome | Paired p | q | Most changed category | Gained / lost | Its q | Against null p |
 |---|---|---|---|---|---|---|---|---|---|
-| fret.17.height | 1 mm (10 widths) | 5.3% | 0.9% | 0.2199 | 0.2537 | 25 | 10 / 20 | 1.0000 | 0.8513 |
-| fret.17.height | -1 mm (10 widths) | 5.5% | 0.8% | 0.4789 | 0.5131 | 26 | 4 / 0 | 1.0000 | 0.8698 |
-| fret.17.height | 3 mm (30 widths) | 5.4% | 1.3% | 0.0537 | 0.0672 | 25 | 14 / 41 | 0.0329 | 0.8021 |
+| fret.17.height | 1 mm (10 widths) | 5.3% | 0.9% | 0.2199 | 0.2513 | 25 | 10 / 20 | 1.0000 | 0.8513 |
+| fret.17.height | -1 mm (10 widths) | 5.5% | 0.8% | 0.4789 | 0.5108 | 26 | 4 / 0 | 1.0000 | 0.8698 |
+| fret.17.height | 3 mm (30 widths) | 5.4% | 1.3% | 0.0537 | 0.0661 | 25 | 14 / 41 | 0.0300 | 0.8021 |
 | fret.17.height | -3 mm (30 widths) | 5.7% | 1.3% | 0.5874 | 0.5874 | 34 | 33 / 18 | 1.0000 | 0.8130 |
-| fret.17.cor | 30 % (10 widths) | 5.7% | 0.8% | 0.0004 | 0.0011 | 6 | 21 / 4 | 0.0632 | 0.8648 |
-| fret.17.cor | -30 % (10 widths) | 5.7% | 0.8% | 8.2e-6 | 3.1e-5 | 34 | 4 / 28 | 0.0027 | 0.8108 |
-| fret.17.cor | 90 % (30 widths) | 5.7% | 1.6% | 1.1e-12 | 1.1e-11 | 17 | 11 / 58 | 2.1e-6 | 0.1878 |
-| fret.17.cor | -90 % (30 widths) | 5.7% | 0.9% | 1.2e-6 | 6.1e-6 | 34 | 2 / 30 | 4.6e-5 | 0.7315 |
-| pocket.17.cor | 30 % (10 widths) | 2.7% | 0.2% | 0.0007 | 0.0015 | 17 | 0 / 15 | 0.0068 | 0.8353 |
-| pocket.17.cor | -30 % (10 widths) | 2.7% | 0.0% | 0.0455 | 0.0620 | 17 | 4 / 0 | 1.0000 | 0.9130 |
-| pocket.17.cor | 90 % (30 widths) | 2.7% | 0.7% | 1.4e-12 | 1.1e-11 | 17 | 1 / 73 | 4.4e-18 | 0.0297 |
-| pocket.17.cor | -90 % (30 widths) | 2.7% | 0.0% | 0.0455 | 0.0620 | 17 | 4 / 0 | 1.0000 | 0.9130 |
-| pocket.17.depth | 1 mm (10 widths) | 2.7% | 0.0% | 0.0455 | 0.0620 | 17 | 4 / 0 | 1.0000 | 0.9130 |
-| pocket.17.depth | -1 mm (10 widths) | 2.7% | 0.1% | 0.0005 | 0.0013 | 17 | 0 / 12 | 0.0387 | 0.8368 |
-| pocket.17.depth | 3 mm (30 widths) | 2.7% | 0.0% | 0.0455 | 0.0620 | 17 | 4 / 0 | 1.0000 | 0.9130 |
+| fret.17.cor | 30 % (10 widths) | 5.7% | 0.8% | 0.0004 | 0.0010 | 6 | 21 / 4 | 0.0599 | 0.8648 |
+| fret.17.cor | -30 % (10 widths) | 5.7% | 0.8% | 8.2e-6 | 2.6e-5 | 34 | 4 / 28 | 0.0023 | 0.8108 |
+| fret.17.cor | 90 % (30 widths) | 5.7% | 1.6% | 1.1e-12 | 1.1e-11 | 17 | 11 / 58 | 1.5e-6 | 0.1878 |
+| fret.17.cor | -90 % (30 widths) | 5.7% | 0.9% | 1.2e-6 | 4.9e-6 | 34 | 2 / 30 | 3.6e-5 | 0.7315 |
+| pocket.17.cor | 30 % (10 widths) | 2.7% | 0.2% | 0.0007 | 0.0014 | 17 | 0 / 15 | 0.0060 | 0.8353 |
+| pocket.17.cor | -30 % (10 widths) | 2.7% | 0.0% | 0.0455 | 0.0607 | 17 | 4 / 0 | 1.0000 | 0.9130 |
+| pocket.17.cor | 90 % (30 widths) | 2.7% | 0.7% | 1.4e-12 | 1.1e-11 | 17 | 1 / 73 | 4.7e-18 | 0.0297 |
+| pocket.17.cor | -90 % (30 widths) | 2.7% | 0.0% | 0.0455 | 0.0607 | 17 | 4 / 0 | 1.0000 | 0.9130 |
+| pocket.17.depth | 1 mm (10 widths) | 2.7% | 0.0% | 0.0455 | 0.0607 | 17 | 4 / 0 | 1.0000 | 0.9130 |
+| pocket.17.depth | -1 mm (10 widths) | 2.7% | 0.1% | 0.0005 | 0.0012 | 17 | 0 / 12 | 0.0361 | 0.8368 |
+| pocket.17.depth | 3 mm (30 widths) | 2.7% | 0.0% | 0.0455 | 0.0607 | 17 | 4 / 0 | 1.0000 | 0.9130 |
+| pocket.17.depth | -3 mm (30 widths) | 2.7% | 0.3% | 1.9e-7 | 9.9e-7 | 17 | 0 / 31 | 2.8e-7 | 0.5023 |
 
 **Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
 
@@ -223,5 +224,14 @@ Mean paired change in each metric:
 | pocket.17.depth | 1 | 0 | -0.0000852 | -0.0000852 | 0 | -0.0004 | 0 | 0 | 0 | -0.00389 |
 | pocket.17.depth | -1 | 0 | 0.000246 | 0.000246 | 0 | -0.0001 | 0 | 0 | 0 | 0.0117 |
 | pocket.17.depth | 3 | 0 | -0.0000637 | -0.0000637 | 0 | 0.0018 | 0 | 0 | 0 | -0.00389 |
+| pocket.17.depth | -3 | 0 | 0.000882 * | -0.00373 * | 0 | -0.0062 * | 0 | 0 | 0 | 0.0311 * |
 
 `*` marks a paired |z| above 3.5.
+
+## Cross-coupling
+
+Mean of ab - a - b + baseline, trial by trial. Zero means the pair just adds. `*` marks |z| above 3.5.
+
+| Pair | rimTime | totalTime | settleTime | leaveSpeed | fretHits | deflectorHits | leaveAz | rotorEntryAz | scatter | Outcome p |
+|---|---|---|---|---|---|---|---|---|---|---|
+| table.tiltX 0.15 x spindle.tiltX 0.09 | 0 | -0.00425 | -0.00229 | 0 | -0.0242 | 0.0002 | 0 | 0 | -0.0379 | 0.8499 |
