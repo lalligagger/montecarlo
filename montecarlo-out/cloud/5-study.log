@@ -1029,3 +1029,6 @@ plan: 67 cases x 10000 trials, about 1059 min
   sweep bowl.upperTrackDeg 0.44999999999999996: 2500/10000
   sweep bowl.upperTrackDeg 0.44999999999999996: 2600/10000
   sweep bowl.upperTrackDeg 0.44999999999999996: 2650/10000
+  sweep bowl.upperTrackDeg 0.44999999999999996: 2750/10000
+  sweep bowl.upperTrackDeg 0.44999999999999996: 2800/10000
+  sweep bowl.upperTrackDeg 0.44999999999999996: 2850/10000
