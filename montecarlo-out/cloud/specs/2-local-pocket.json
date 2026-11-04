@@ -1,0 +1,19 @@
+{
+  "baseline": {
+    "name": "As designed, PTFE",
+    "trials": 100000,
+    "seed": 41
+  },
+  "common": {
+    "trials": 100000,
+    "seed": 41
+  },
+  "scenarios": [
+    {
+      "name": "Pocket floor restitution -9%, 3 widths (17)",
+      "deltas": {
+        "pocket.17.cor": -9
+      }
+    }
+  ]
+}
