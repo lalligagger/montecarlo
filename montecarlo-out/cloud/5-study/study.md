@@ -87,3 +87,21 @@ What N buys, per case:
 | 100,000 | 3.7 h | 7.7% | 11% | 0.023 |
 | 300,000 | 11.1 h | 4.4% | 6.4% | 0.0133 |
 | 1,000,000 | 36.9 h | 2.4% | 3.5% | 0.00727 |
+
+## Sweep
+
+10000 trials per case. Two clean baselines on different seeds gave p = 0.9447, which is what no change looks like here.
+
+| Parameter | Delta | Reached | Moved outcome | Paired p | q | Most changed category | Gained / lost | Its q | Against null p |
+|---|---|---|---|---|---|---|---|---|---|
+| material.mu | 0.06 dimensionless | 100% | 97% | 0.7169 | 0.7169 | 20 | 267 / 215 | 0.7431 | 0.3188 |
+
+**Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
+
+Mean paired change in each metric:
+
+| Parameter | Delta | rimTime | totalTime | settleTime | leaveSpeed | fretHits | deflectorHits | leaveAz | rotorEntryAz | scatter |
+|---|---|---|---|---|---|---|---|---|---|---|
+| material.mu | 0.06 | 4.8 * | 4.85 * | -0.0153 * | -0.000105 * | -0.274 * | 0.0602 * | -74.6 * | -73.9 * | 24.7 * |
+
+`*` marks a paired |z| above 3.5.
