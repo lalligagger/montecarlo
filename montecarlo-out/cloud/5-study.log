@@ -8082,3 +8082,5 @@ plan: 67 cases x 10000 trials, about 1485 min
   dose pocket.17.depth -1: 2700/10000
   dose pocket.17.depth -1: 2750/10000
   dose pocket.17.depth -1: 2800/10000
+  dose pocket.17.depth -1: 2850/10000
+  dose pocket.17.depth -1: 2900/10000
