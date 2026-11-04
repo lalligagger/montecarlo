@@ -99,7 +99,9 @@ What N buys, per case:
 | surface.trackMu | 30 % | 100% | 100% | 0.4573 | 0.7468 | 20 | 273 / 222 | 1.0000 | 0.1907 |
 | surface.trackMu | -30 % | 100% | 97% | 0.7468 | 0.7468 | 29 | 293 / 242 | 1.0000 | 0.6387 |
 | bowl.upperTrackDeg | 0.45 deg | 100% | 74% | 0.7306 | 0.7468 | 20 | 205 / 162 | 1.0000 | 0.4945 |
-| bowl.upperTrackDeg | -0.45 deg | 100% | 77% | 0.0829 | 0.4972 | 20 | 222 / 172 | 1.0000 | 0.3208 |
+| bowl.upperTrackDeg | -0.45 deg | 100% | 77% | 0.0829 | 0.6629 | 20 | 222 / 172 | 1.0000 | 0.3208 |
+| bowl.ovalSin | 0.45 mm | 100% | 77% | 0.4696 | 0.7468 | 20 | 222 / 162 | 0.7578 | 0.4555 |
+| bowl.ovalSin | -0.45 mm | 100% | 78% | 0.7031 | 0.7468 | 10 | 198 / 238 | 1.0000 | 0.3666 |
 
 **Paired** compares the arms launch by launch, so only trials the change moved count. **Moved outcome** is the share of trials that ended in a different category.
 
@@ -113,5 +115,7 @@ Mean paired change in each metric:
 | surface.trackMu | -30 | -3.73 * | -3.69 * | 0.0367 * | 0.0323 * | 0.679 * | -0.0306 | -131 * | -89.7 * | -41 * |
 | bowl.upperTrackDeg | 0.45 | -0.107 * | -0.0708 * | 0.000658 | 0.014 * | 0.186 * | 0.066 * | 5.34 * | -4.53 * | -14.2 * |
 | bowl.upperTrackDeg | -0.45 | 0.113 * | 0.0814 * | 0.00209 | -0.0141 * | -0.0901 * | -0.0318 | -5.96 * | 2.46 * | 12.8 * |
+| bowl.ovalSin | 0.45 | -0.0944 * | -0.12 * | 0.00495 | 0.0144 * | 0.0615 | 0.0696 * | 0.271 | -0.513 * | -0.885 |
+| bowl.ovalSin | -0.45 | -0.0846 * | -0.112 * | 0.00201 | 0.00974 * | 0.0573 | 0.0608 * | 0.252 | -0.104 | -0.207 |
 
 `*` marks a paired |z| above 3.5.
