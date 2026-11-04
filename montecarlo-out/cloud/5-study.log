@@ -2406,3 +2406,4 @@ plan: 67 cases x 10000 trials, about 1485 min
   sweep ball.outOfRound -0.15000000000000002: 6200/10000
   sweep ball.outOfRound -0.15000000000000002: 6250/10000
   sweep ball.outOfRound -0.15000000000000002: 6350/10000
+  sweep ball.outOfRound -0.15000000000000002: 6400/10000
