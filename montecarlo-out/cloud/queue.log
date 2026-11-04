@@ -7,3 +7,4 @@
 2026-11-03T06:14:46Z start 1-wobble
 2026-11-04T01:56:18Z skip 0-tests (done)
 2026-11-04T01:56:18Z start 1-wobble
+2026-11-04T01:57:22Z killed full 1-wobble rerun; running targeted -0.06 arm as 1-wobble-neg006 (coordinator)
