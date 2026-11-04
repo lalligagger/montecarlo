@@ -793,3 +793,6 @@ plan: 67 cases x 10000 trials, about 1485 min
   sweep material.mu -0.06: 4800/10000
   sweep material.mu -0.06: 4850/10000
   sweep material.mu -0.06: 4950/10000
+  sweep material.mu -0.06: 5000/10000
+  sweep material.mu -0.06: 5100/10000
+  sweep material.mu -0.06: 5150/10000
